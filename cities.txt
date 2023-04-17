@@ -1,0 +1,7267 @@
+The-most-populous-cities-in-the-world-from-1500-to-2018-(Population-in-thousands)    
+    
+12    
+1500  Beijing  672
+1500  Cairo  400
+1500  Cuttack  140
+1500  Fez  130
+1500  Gauda  200
+1500  Guangzhou  150
+1500  Hangzhou  250
+1500  Istanbul  200
+1500  Nanjing  147
+1500  Paris  185
+1500  Tabriz  250
+1500  Vijayanagar  500
+    
+12    
+1501  Beijing  672
+1501  Cairo  399
+1501  Cuttack  139
+1501  Fez  130
+1501  Gauda  200
+1501  Guangzhou  150
+1501  Hangzhou  250
+1501  Istanbul  205
+1501  Nanjing  147
+1501  Paris  186
+1501  Tabriz  248
+1501  Vijayanagar  500
+    
+12    
+1502  Beijing  673
+1502  Cairo  398
+1502  Cuttack  138
+1502  Fez  130
+1502  Gauda  200
+1502  Guangzhou  150
+1502  Hangzhou  250
+1502  Istanbul  210
+1502  Nanjing  147
+1502  Paris  186
+1502  Tabriz  246
+1502  Vijayanagar  499
+    
+12    
+1503  Beijing  673
+1503  Cairo  398
+1503  Cuttack  137
+1503  Fez  130
+1503  Gauda  200
+1503  Guangzhou  151
+1503  Hangzhou  251
+1503  Istanbul  215
+1503  Nanjing  147
+1503  Paris  187
+1503  Tabriz  244
+1503  Vijayanagar  499
+    
+12    
+1504  Beijing  673
+1504  Cairo  397
+1504  Cuttack  136
+1504  Fez  130
+1504  Gauda  200
+1504  Guangzhou  151
+1504  Hangzhou  251
+1504  Istanbul  220
+1504  Nanjing  147
+1504  Paris  187
+1504  Tabriz  242
+1504  Vijayanagar  498
+    
+12    
+1505  Beijing  674
+1505  Cairo  396
+1505  Cuttack  135
+1505  Fez  130
+1505  Gauda  200
+1505  Guangzhou  151
+1505  Hangzhou  251
+1505  Istanbul  225
+1505  Nanjing  147
+1505  Paris  188
+1505  Tabriz  240
+1505  Vijayanagar  498
+    
+12    
+1506  Beijing  674
+1506  Cairo  395
+1506  Cuttack  134
+1506  Fez  130
+1506  Gauda  200
+1506  Guangzhou  151
+1506  Hangzhou  251
+1506  Istanbul  230
+1506  Nanjing  147
+1506  Paris  188
+1506  Tabriz  238
+1506  Vijayanagar  498
+    
+12    
+1507  Beijing  675
+1507  Cairo  394
+1507  Cuttack  133
+1507  Edirne  131
+1507  Gauda  200
+1507  Guangzhou  151
+1507  Hangzhou  251
+1507  Istanbul  235
+1507  Nanjing  147
+1507  Paris  189
+1507  Tabriz  236
+1507  Vijayanagar  497
+    
+12    
+1508  Beijing  675
+1508  Cairo  394
+1508  Cuttack  132
+1508  Edirne  131
+1508  Gauda  200
+1508  Guangzhou  152
+1508  Hangzhou  252
+1508  Istanbul  240
+1508  Nanjing  147
+1508  Paris  189
+1508  Tabriz  234
+1508  Vijayanagar  497
+    
+12    
+1509  Beijing  675
+1509  Cairo  393
+1509  Gauda  200
+1509  Guangzhou  152
+1509  Hangzhou  252
+1509  Istanbul  245
+1509  Nanjing  147
+1509  Naples  132
+1509  Paris  190
+1509  Suzhou  132
+1509  Tabriz  232
+1509  Vijayanagar  496
+    
+12    
+1510  Beijing  676
+1510  Cairo  392
+1510  Gauda  200
+1510  Guangzhou  152
+1510  Hangzhou  252
+1510  Istanbul  250
+1510  Nanjing  147
+1510  Naples  134
+1510  Paris  190
+1510  Suzhou  133
+1510  Tabriz  230
+1510  Vijayanagar  496
+    
+12    
+1511  Beijing  676
+1511  Cairo  391
+1511  Gauda  200
+1511  Guangzhou  152
+1511  Hangzhou  252
+1511  Istanbul  260
+1511  Nanjing  147
+1511  Naples  136
+1511  Paris  191
+1511  Suzhou  134
+1511  Tabriz  228
+1511  Vijayanagar  496
+    
+12    
+1512  Beijing  676
+1512  Cairo  390
+1512  Gauda  200
+1512  Guangzhou  152
+1512  Hangzhou  252
+1512  Istanbul  270
+1512  Nanjing  147
+1512  Naples  138
+1512  Paris  191
+1512  Suzhou  135
+1512  Tabriz  226
+1512  Vijayanagar  495
+    
+12    
+1513  Beijing  677
+1513  Cairo  390
+1513  Gauda  200
+1513  Guangzhou  153
+1513  Hangzhou  253
+1513  Istanbul  280
+1513  Nanjing  147
+1513  Naples  140
+1513  Paris  192
+1513  Suzhou  136
+1513  Tabriz  224
+1513  Vijayanagar  495
+    
+12    
+1514  Beijing  677
+1514  Cairo  389
+1514  Gauda  200
+1514  Guangzhou  153
+1514  Hangzhou  253
+1514  Istanbul  290
+1514  Nanjing  147
+1514  Naples  142
+1514  Paris  192
+1514  Suzhou  137
+1514  Tabriz  222
+1514  Vijayanagar  494
+    
+12    
+1515  Beijing  677
+1515  Cairo  388
+1515  Gauda  197
+1515  Guangzhou  153
+1515  Hangzhou  253
+1515  Istanbul  300
+1515  Nanjing  147
+1515  Naples  145
+1515  Paris  193
+1515  Suzhou  138
+1515  Tabriz  220
+1515  Vijayanagar  494
+    
+12    
+1516  Beijing  678
+1516  Cairo  387
+1516  Gauda  194
+1516  Guangzhou  153
+1516  Hangzhou  253
+1516  Istanbul  308
+1516  Nanjing  148
+1516  Naples  147
+1516  Paris  193
+1516  Suzhou  139
+1516  Tabriz  218
+1516  Vijayanagar  494
+    
+12    
+1517  Beijing  678
+1517  Cairo  386
+1517  Gauda  192
+1517  Guangzhou  153
+1517  Hangzhou  253
+1517  Istanbul  315
+1517  Nanjing  149
+1517  Naples  149
+1517  Paris  194
+1517  Suzhou  141
+1517  Tabriz  216
+1517  Vijayanagar  493
+    
+12    
+1518  Beijing  678
+1518  Cairo  386
+1518  Gauda  189
+1518  Guangzhou  154
+1518  Hangzhou  254
+1518  Istanbul  323
+1518  Nanjing  150
+1518  Naples  151
+1518  Paris  194
+1518  Suzhou  142
+1518  Tabriz  214
+1518  Vijayanagar  493
+    
+12    
+1519  Beijing  679
+1519  Cairo  385
+1519  Gauda  186
+1519  Guangzhou  154
+1519  Hangzhou  254
+1519  Istanbul  331
+1519  Nanjing  151
+1519  Naples  153
+1519  Paris  195
+1519  Suzhou  143
+1519  Tabriz  212
+1519  Vijayanagar  492
+    
+12    
+1520  Beijing  679
+1520  Cairo  384
+1520  Gauda  183
+1520  Guangzhou  154
+1520  Hangzhou  254
+1520  Istanbul  338
+1520  Nanjing  152
+1520  Naples  155
+1520  Paris  195
+1520  Suzhou  144
+1520  Tabriz  210
+1520  Vijayanagar  492
+    
+12    
+1521  Beijing  680
+1521  Cairo  383
+1521  Gauda  181
+1521  Guangzhou  154
+1521  Hangzhou  254
+1521  Istanbul  346
+1521  Nanjing  153
+1521  Naples  157
+1521  Paris  196
+1521  Suzhou  145
+1521  Tabriz  208
+1521  Vijayanagar  492
+    
+12    
+1522  Beijing  680
+1522  Cairo  382
+1522  Gauda  178
+1522  Guangzhou  154
+1522  Hangzhou  254
+1522  Istanbul  354
+1522  Nanjing  154
+1522  Naples  159
+1522  Paris  196
+1522  Suzhou  146
+1522  Tabriz  206
+1522  Vijayanagar  491
+    
+12    
+1523  Beijing  680
+1523  Cairo  382
+1523  Gauda  175
+1523  Guangzhou  155
+1523  Hangzhou  255
+1523  Istanbul  362
+1523  Nanjing  155
+1523  Naples  161
+1523  Paris  197
+1523  Suzhou  145
+1523  Tabriz  204
+1523  Vijayanagar  491
+    
+12    
+1524  Beijing  681
+1524  Cairo  381
+1524  Gauda  172
+1524  Guangzhou  155
+1524  Hangzhou  255
+1524  Istanbul  369
+1524  Nanjing  156
+1524  Naples  163
+1524  Paris  197
+1524  Suzhou  145
+1524  Tabriz  202
+1524  Vijayanagar  490
+    
+12    
+1525  Beijing  681
+1525  Cairo  380
+1525  Gauda  169
+1525  Guangzhou  155
+1525  Hangzhou  255
+1525  Istanbul  377
+1525  Nanjing  157
+1525  Naples  165
+1525  Paris  198
+1525  Suzhou  144
+1525  Tabriz  200
+1525  Vijayanagar  490
+    
+12    
+1526  Beijing  681
+1526  Cairo  379
+1526  Gauda  167
+1526  Guangzhou  155
+1526  Hangzhou  255
+1526  Istanbul  385
+1526  Nanjing  158
+1526  Naples  167
+1526  Paris  198
+1526  Suzhou  143
+1526  Tabriz  198
+1526  Vijayanagar  490
+    
+12    
+1527  Beijing  682
+1527  Cairo  378
+1527  Gauda  164
+1527  Guangzhou  155
+1527  Hangzhou  255
+1527  Istanbul  392
+1527  Nanjing  159
+1527  Naples  169
+1527  Paris  199
+1527  Suzhou  143
+1527  Tabriz  196
+1527  Vijayanagar  489
+    
+12    
+1528  Beijing  682
+1528  Cairo  378
+1528  Gauda  161
+1528  Guangzhou  156
+1528  Hangzhou  256
+1528  Istanbul  400
+1528  Nanjing  160
+1528  Naples  171
+1528  Paris  199
+1528  Suzhou  142
+1528  Tabriz  194
+1528  Vijayanagar  489
+    
+12    
+1529  Beijing  682
+1529  Cairo  377
+1529  Edirne  143
+1529  Gauda  158
+1529  Guangzhou  156
+1529  Hangzhou  256
+1529  Istanbul  412
+1529  Nanjing  161
+1529  Naples  173
+1529  Paris  200
+1529  Tabriz  192
+1529  Vijayanagar  488
+    
+12    
+1530  Beijing  683
+1530  Cairo  376
+1530  Gauda  156
+1530  Guangzhou  156
+1530  Hangzhou  256
+1530  Istanbul  424
+1530  Nanjing  162
+1530  Naples  175
+1530  Paris  200
+1530  Tabriz  190
+1530  Venice  144
+1530  Vijayanagar  488
+    
+12    
+1531  Beijing  683
+1531  Cairo  375
+1531  Gauda  153
+1531  Guangzhou  156
+1531  Hangzhou  256
+1531  Istanbul  435
+1531  Nanjing  163
+1531  Naples  177
+1531  Paris  201
+1531  Tabriz  188
+1531  Venice  145
+1531  Vijayanagar  488
+    
+12    
+1532  Beijing  684
+1532  Cairo  374
+1532  Gauda  150
+1532  Guangzhou  156
+1532  Hangzhou  256
+1532  Istanbul  447
+1532  Nanjing  164
+1532  Naples  179
+1532  Paris  201
+1532  Tabriz  186
+1532  Venice  146
+1532  Vijayanagar  487
+    
+12    
+1533  Beijing  684
+1533  Cairo  374
+1533  Gauda  147
+1533  Guangzhou  157
+1533  Hangzhou  257
+1533  Istanbul  459
+1533  Nanjing  165
+1533  Naples  181
+1533  Paris  202
+1533  Tabriz  184
+1533  Venice  148
+1533  Vijayanagar  487
+    
+12    
+1534  Beijing  684
+1534  Cairo  373
+1534  Edirne  146
+1534  Guangzhou  157
+1534  Hangzhou  257
+1534  Istanbul  471
+1534  Nanjing  166
+1534  Naples  183
+1534  Paris  202
+1534  Tabriz  182
+1534  Venice  149
+1534  Vijayanagar  486
+    
+12    
+1535  Beijing  685
+1535  Cairo  372
+1535  Edirne  146
+1535  Guangzhou  157
+1535  Hangzhou  257
+1535  Istanbul  483
+1535  Nanjing  167
+1535  Naples  185
+1535  Paris  203
+1535  Tabriz  180
+1535  Venice  151
+1535  Vijayanagar  486
+    
+12    
+1536  Beijing  685
+1536  Cairo  371
+1536  Edirne  147
+1536  Guangzhou  157
+1536  Hangzhou  257
+1536  Istanbul  495
+1536  Nanjing  168
+1536  Naples  187
+1536  Paris  203
+1536  Tabriz  178
+1536  Venice  152
+1536  Vijayanagar  486
+    
+12    
+1537  Beijing  685
+1537  Cairo  370
+1537  Edirne  148
+1537  Guangzhou  157
+1537  Hangzhou  257
+1537  Istanbul  506
+1537  Nanjing  169
+1537  Naples  189
+1537  Paris  204
+1537  Tabriz  176
+1537  Venice  153
+1537  Vijayanagar  485
+    
+12    
+1538  Beijing  686
+1538  Cairo  370
+1538  Edirne  148
+1538  Guangzhou  158
+1538  Hangzhou  258
+1538  Istanbul  518
+1538  Nanjing  170
+1538  Naples  191
+1538  Paris  204
+1538  Tabriz  174
+1538  Venice  155
+1538  Vijayanagar  485
+    
+12    
+1539  Beijing  686
+1539  Cairo  369
+1539  Edirne  149
+1539  Guangzhou  158
+1539  Hangzhou  258
+1539  Istanbul  530
+1539  Nanjing  171
+1539  Naples  193
+1539  Paris  205
+1539  Tabriz  172
+1539  Venice  156
+1539  Vijayanagar  484
+    
+12    
+1540  Beijing  686
+1540  Cairo  368
+1540  Edirne  150
+1540  Guangzhou  158
+1540  Hangzhou  258
+1540  Istanbul  542
+1540  Nanjing  172
+1540  Naples  195
+1540  Paris  205
+1540  Tabriz  170
+1540  Venice  157
+1540  Vijayanagar  484
+    
+12    
+1541  Beijing  687
+1541  Cairo  367
+1541  Edirne  150
+1541  Guangzhou  158
+1541  Hangzhou  258
+1541  Istanbul  554
+1541  Nanjing  173
+1541  Naples  197
+1541  Paris  206
+1541  Tabriz  168
+1541  Venice  159
+1541  Vijayanagar  484
+    
+12    
+1542  Beijing  687
+1542  Cairo  366
+1542  Edirne  151
+1542  Guangzhou  158
+1542  Hangzhou  258
+1542  Istanbul  565
+1542  Nanjing  174
+1542  Naples  199
+1542  Paris  206
+1542  Tabriz  166
+1542  Venice  160
+1542  Vijayanagar  483
+    
+12    
+1543  Beijing  687
+1543  Cairo  366
+1543  Edirne  152
+1543  Guangzhou  159
+1543  Hangzhou  259
+1543  Istanbul  577
+1543  Nanjing  175
+1543  Naples  201
+1543  Paris  207
+1543  Tabriz  164
+1543  Venice  161
+1543  Vijayanagar  483
+    
+12    
+1544  Beijing  688
+1544  Cairo  365
+1544  Edirne  152
+1544  Guangzhou  159
+1544  Hangzhou  259
+1544  Istanbul  589
+1544  Nanjing  176
+1544  Naples  204
+1544  Paris  207
+1544  Tabriz  162
+1544  Venice  163
+1544  Vijayanagar  482
+    
+12    
+1545  Beijing  688
+1545  Cairo  364
+1545  Edirne  153
+1545  Guangzhou  159
+1545  Hangzhou  259
+1545  Istanbul  601
+1545  Nanjing  177
+1545  Naples  206
+1545  Paris  208
+1545  Tabriz  160
+1545  Venice  164
+1545  Vijayanagar  482
+    
+12    
+1546  Beijing  689
+1546  Cairo  363
+1546  Edirne  153
+1546  Guangzhou  159
+1546  Hangzhou  259
+1546  Istanbul  613
+1546  Nanjing  178
+1546  Naples  208
+1546  Paris  208
+1546  Tabriz  158
+1546  Venice  166
+1546  Vijayanagar  482
+    
+12    
+1547  Beijing  689
+1547  Cairo  362
+1547  Edirne  154
+1547  Guangzhou  159
+1547  Hangzhou  259
+1547  Istanbul  625
+1547  Nanjing  179
+1547  Naples  210
+1547  Paris  209
+1547  Tabriz  156
+1547  Venice  167
+1547  Vijayanagar  481
+    
+12    
+1548  Beijing  689
+1548  Cairo  362
+1548  Edirne  155
+1548  Guangzhou  160
+1548  Hangzhou  260
+1548  Istanbul  636
+1548  Nanjing  180
+1548  Naples  209
+1548  Paris  209
+1548  Tabriz  154
+1548  Venice  168
+1548  Vijayanagar  481
+    
+12    
+1549  Beijing  690
+1549  Cairo  361
+1549  Edirne  155
+1549  Guangzhou  160
+1549  Hangzhou  260
+1549  Istanbul  648
+1549  Nanjing  181
+1549  Naples  209
+1549  Paris  210
+1549  Tabriz  152
+1549  Venice  170
+1549  Vijayanagar  480
+    
+12    
+1550  Ayutthaya  150
+1550  Beijing  690
+1550  Cairo  360
+1550  Edirne  156
+1550  Guangzhou  160
+1550  Hangzhou  260
+1550  Istanbul  660
+1550  Nanjing  182
+1550  Naples  209
+1550  Paris  210
+1550  Venice  171
+1550  Vijayanagar  480
+    
+12    
+1551  Beijing  691
+1551  Cairo  357
+1551  Edirne  157
+1551  Guangzhou  160
+1551  Hangzhou  260
+1551  Istanbul  660
+1551  Nanjing  182
+1551  Naples  209
+1551  Paris  210
+1551  Pegu  151
+1551  Venice  172
+1551  Vijayanagar  480
+    
+12    
+1552  Beijing  691
+1552  Cairo  353
+1552  Edirne  157
+1552  Guangzhou  161
+1552  Hangzhou  260
+1552  Istanbul  660
+1552  Nanjing  182
+1552  Naples  208
+1552  Paris  211
+1552  Pegu  152
+1552  Venice  173
+1552  Vijayanagar  480
+    
+12    
+1553  Beijing  692
+1553  Cairo  350
+1553  Edirne  158
+1553  Guangzhou  161
+1553  Hangzhou  260
+1553  Istanbul  661
+1553  Nanjing  183
+1553  Naples  208
+1553  Paris  211
+1553  Pegu  153
+1553  Venice  174
+1553  Vijayanagar  480
+    
+12    
+1554  Beijing  693
+1554  Cairo  346
+1554  Edirne  158
+1554  Guangzhou  162
+1554  Hangzhou  260
+1554  Istanbul  662
+1554  Nanjing  183
+1554  Naples  208
+1554  Paris  212
+1554  Pegu  154
+1554  Venice  174
+1554  Vijayanagar  480
+    
+12    
+1555  Beijing  693
+1555  Cairo  343
+1555  Edirne  159
+1555  Guangzhou  162
+1555  Hangzhou  260
+1555  Istanbul  663
+1555  Nanjing  183
+1555  Naples  209
+1555  Paris  212
+1555  Pegu  155
+1555  Venice  175
+1555  Vijayanagar  480
+    
+12    
+1556  Beijing  694
+1556  Cairo  340
+1556  Edirne  160
+1556  Guangzhou  162
+1556  Hangzhou  260
+1556  Istanbul  663
+1556  Kyoto  157
+1556  Nanjing  183
+1556  Naples  209
+1556  Paris  212
+1556  Venice  176
+1556  Vijayanagar  480
+    
+12    
+1557  Beijing  694
+1557  Cairo  336
+1557  Edirne  160
+1557  Guangzhou  163
+1557  Hangzhou  260
+1557  Istanbul  664
+1557  Kyoto  167
+1557  Nanjing  184
+1557  Naples  209
+1557  Paris  213
+1557  Venice  177
+1557  Vijayanagar  480
+    
+12    
+1558  Beijing  695
+1558  Cairo  333
+1558  Edirne  161
+1558  Guangzhou  163
+1558  Hangzhou  260
+1558  Istanbul  665
+1558  Kyoto  176
+1558  Nanjing  184
+1558  Naples  210
+1558  Paris  213
+1558  Venice  178
+1558  Vijayanagar  480
+    
+12    
+1559  Beijing  696
+1559  Cairo  329
+1559  Edirne  161
+1559  Guangzhou  164
+1559  Hangzhou  260
+1559  Istanbul  666
+1559  Kyoto  186
+1559  Nanjing  184
+1559  Naples  210
+1559  Paris  214
+1559  Venice  179
+1559  Vijayanagar  480
+    
+12    
+1560  Beijing  696
+1560  Cairo  326
+1560  Edirne  162
+1560  Guangzhou  164
+1560  Hangzhou  260
+1560  Istanbul  667
+1560  Kyoto  195
+1560  Nanjing  184
+1560  Naples  210
+1560  Paris  214
+1560  Venice  179
+1560  Vijayanagar  480
+    
+12    
+1561  Beijing  697
+1561  Cairo  323
+1561  Edirne  163
+1561  Guangzhou  164
+1561  Hangzhou  260
+1561  Istanbul  668
+1561  Kyoto  205
+1561  Nanjing  185
+1561  Naples  211
+1561  Paris  214
+1561  Venice  180
+1561  Vijayanagar  480
+    
+12    
+1562  Beijing  698
+1562  Cairo  319
+1562  Edirne  163
+1562  Guangzhou  165
+1562  Hangzhou  260
+1562  Istanbul  669
+1562  Kyoto  214
+1562  Nanjing  185
+1562  Naples  211
+1562  Paris  215
+1562  Venice  181
+1562  Vijayanagar  480
+    
+12    
+1563  Beijing  698
+1563  Cairo  316
+1563  Edirne  164
+1563  Guangzhou  165
+1563  Hangzhou  260
+1563  Istanbul  670
+1563  Kyoto  224
+1563  Nanjing  185
+1563  Naples  211
+1563  Paris  215
+1563  Venice  182
+1563  Vijayanagar  480
+    
+12    
+1564  Beijing  699
+1564  Cairo  312
+1564  Edirne  164
+1564  Guangzhou  166
+1564  Hangzhou  260
+1564  Istanbul  670
+1564  Kyoto  233
+1564  Nanjing  185
+1564  Naples  212
+1564  Paris  216
+1564  Venice  180
+1564  Vijayanagar  480
+    
+12    
+1565  Beijing  700
+1565  Cairo  309
+1565  Edirne  165
+1565  Guangzhou  166
+1565  Hangzhou  260
+1565  Istanbul  671
+1565  Kyoto  243
+1565  Nanjing  186
+1565  Naples  212
+1565  Paris  216
+1565  Venice  178
+1565  Vijayanagar  480
+    
+12    
+1566  Beijing  700
+1566  Cairo  306
+1566  Edirne  166
+1566  Guangzhou  166
+1566  Hangzhou  260
+1566  Istanbul  672
+1566  Kyoto  252
+1566  Nanjing  186
+1566  Naples  212
+1566  Paris  216
+1566  Pegu  166
+1566  Venice  176
+    
+12    
+1567  Beijing  701
+1567  Cairo  302
+1567  Edirne  166
+1567  Guangzhou  167
+1567  Hangzhou  260
+1567  Istanbul  673
+1567  Kyoto  262
+1567  Nanjing  186
+1567  Naples  212
+1567  Paris  217
+1567  Pegu  167
+1567  Venice  174
+    
+12    
+1568  Beijing  702
+1568  Cairo  299
+1568  Edirne  167
+1568  Guangzhou  167
+1568  Hangzhou  260
+1568  Istanbul  674
+1568  Kyoto  271
+1568  Nanjing  186
+1568  Naples  213
+1568  Paris  217
+1568  Pegu  168
+1568  Venice  172
+    
+12    
+1569  Beijing  702
+1569  Cairo  295
+1569  Edirne  167
+1569  Guangzhou  168
+1569  Hangzhou  260
+1569  Istanbul  675
+1569  Kyoto  281
+1569  Nanjing  187
+1569  Naples  213
+1569  Paris  218
+1569  Pegu  169
+1569  Venice  170
+    
+12    
+1570  Beijing  703
+1570  Cairo  292
+1570  Edirne  168
+1570  Guangzhou  168
+1570  Hangzhou  260
+1570  Istanbul  676
+1570  Kyoto  290
+1570  Nanjing  187
+1570  Naples  213
+1570  Paris  218
+1570  Pegu  170
+1570  Venice  167
+    
+12    
+1571  Beijing  703
+1571  Cairo  289
+1571  Edirne  169
+1571  Guangzhou  168
+1571  Hangzhou  260
+1571  Istanbul  677
+1571  Kyoto  300
+1571  Nanjing  187
+1571  Naples  214
+1571  Paris  218
+1571  Pegu  171
+1571  Venice  165
+    
+12    
+1572  Beijing  704
+1572  Cairo  285
+1572  Edirne  169
+1572  Guangzhou  169
+1572  Hangzhou  260
+1572  Istanbul  677
+1572  Kyoto  300
+1572  Nanjing  187
+1572  Naples  214
+1572  Paris  219
+1572  Pegu  172
+1572  Venice  163
+    
+12    
+1573  Ahmedabad  163
+1573  Beijing  705
+1573  Cairo  282
+1573  Edirne  170
+1573  Guangzhou  169
+1573  Hangzhou  260
+1573  Istanbul  678
+1573  Kyoto  300
+1573  Nanjing  188
+1573  Naples  214
+1573  Paris  219
+1573  Pegu  173
+    
+12    
+1574  Ahmedabad  164
+1574  Beijing  705
+1574  Cairo  278
+1574  Edirne  170
+1574  Guangzhou  170
+1574  Hangzhou  260
+1574  Istanbul  679
+1574  Kyoto  300
+1574  Nanjing  188
+1574  Naples  215
+1574  Paris  220
+1574  Pegu  174
+    
+12    
+1575  Agra  200
+1575  Beijing  706
+1575  Cairo  275
+1575  Edirne  171
+1575  Guangzhou  170
+1575  Hangzhou  260
+1575  Istanbul  680
+1575  Kyoto  300
+1575  Nanjing  188
+1575  Naples  215
+1575  Paris  220
+1575  Pegu  175
+    
+12    
+1576  Agra  212
+1576  Beijing  706
+1576  Cairo  272
+1576  Edirne  172
+1576  Guangzhou  170
+1576  Hangzhou  260
+1576  Istanbul  681
+1576  Kyoto  300
+1576  Nanjing  188
+1576  Naples  215
+1576  Paris  220
+1576  Pegu  174
+    
+12    
+1577  Agra  224
+1577  Beijing  706
+1577  Cairo  269
+1577  Edirne  172
+1577  Guangzhou  171
+1577  Hangzhou  261
+1577  Istanbul  682
+1577  Kyoto  300
+1577  Nanjing  189
+1577  Naples  216
+1577  Paris  220
+1577  Pegu  173
+    
+12    
+1578  Agra  236
+1578  Beijing  707
+1578  Cairo  266
+1578  Edirne  173
+1578  Guangzhou  171
+1578  Hangzhou  261
+1578  Istanbul  682
+1578  Kyoto  300
+1578  Nanjing  189
+1578  Naples  216
+1578  Paris  220
+1578  Pegu  171
+    
+12    
+1579  Agra  248
+1579  Ahmedabad  172
+1579  Beijing  707
+1579  Cairo  263
+1579  Edirne  172
+1579  Guangzhou  172
+1579  Hangzhou  262
+1579  Istanbul  683
+1579  Kyoto  300
+1579  Nanjing  189
+1579  Naples  216
+1579  Paris  220
+    
+12    
+1580  Agra  260
+1580  Ahmedabad  173
+1580  Beijing  707
+1580  Cairo  260
+1580  Edirne  171
+1580  Guangzhou  172
+1580  Hangzhou  262
+1580  Istanbul  684
+1580  Kyoto  300
+1580  Nanjing  190
+1580  Naples  217
+1580  Paris  220
+    
+12    
+1581  Agra  272
+1581  Ahmedabad  175
+1581  Beijing  707
+1581  Cairo  257
+1581  Edirne  170
+1581  Guangzhou  172
+1581  Hangzhou  262
+1581  Istanbul  685
+1581  Kyoto  300
+1581  Nanjing  190
+1581  Naples  217
+1581  Paris  220
+    
+12    
+1582  Agra  284
+1582  Ahmedabad  177
+1582  Beijing  707
+1582  Cairo  254
+1582  Edirne  169
+1582  Guangzhou  173
+1582  Hangzhou  263
+1582  Istanbul  686
+1582  Kyoto  300
+1582  Nanjing  190
+1582  Naples  218
+1582  Paris  220
+    
+12    
+1583  Agra  296
+1583  Ahmedabad  178
+1583  Beijing  707
+1583  Cairo  251
+1583  Edirne  168
+1583  Guangzhou  173
+1583  Hangzhou  263
+1583  Istanbul  686
+1583  Kyoto  300
+1583  Nanjing  191
+1583  Naples  218
+1583  Paris  220
+    
+12    
+1584  Agra  308
+1584  Ahmedabad  180
+1584  Beijing  707
+1584  Bijapur  168
+1584  Cairo  248
+1584  Guangzhou  174
+1584  Hangzhou  264
+1584  Istanbul  687
+1584  Kyoto  300
+1584  Nanjing  191
+1584  Naples  218
+1584  Paris  220
+    
+12    
+1585  Agra  320
+1585  Ahmedabad  180
+1585  Beijing  707
+1585  Bijapur  170
+1585  Cairo  245
+1585  Guangzhou  174
+1585  Hangzhou  264
+1585  Istanbul  688
+1585  Kyoto  300
+1585  Nanjing  192
+1585  Naples  219
+1585  Paris  220
+    
+12    
+1586  Agra  332
+1586  Ahmedabad  180
+1586  Beijing  707
+1586  Bijapur  172
+1586  Cairo  242
+1586  Guangzhou  174
+1586  Hangzhou  264
+1586  Istanbul  689
+1586  Kyoto  300
+1586  Nanjing  192
+1586  Naples  219
+1586  Paris  220
+    
+12    
+1587  Agra  344
+1587  Ahmedabad  180
+1587  Beijing  707
+1587  Bijapur  174
+1587  Cairo  239
+1587  Guangzhou  175
+1587  Hangzhou  265
+1587  Istanbul  690
+1587  Kyoto  300
+1587  Nanjing  192
+1587  Naples  219
+1587  Paris  220
+    
+12    
+1588  Agra  356
+1588  Ahmedabad  180
+1588  Beijing  706
+1588  Bijapur  176
+1588  Cairo  236
+1588  Guangzhou  175
+1588  Hangzhou  265
+1588  Istanbul  690
+1588  Kyoto  300
+1588  Nanjing  193
+1588  Naples  220
+1588  Paris  220
+    
+12    
+1589  Agra  368
+1589  Ahmedabad  180
+1589  Beijing  706
+1589  Bijapur  178
+1589  Cairo  233
+1589  Hangzhou  266
+1589  Istanbul  691
+1589  Kyoto  300
+1589  Nanjing  193
+1589  Naples  220
+1589  Osaka  187
+1589  Paris  220
+    
+12    
+1590  Agra  380
+1590  Ahmedabad  180
+1590  Beijing  706
+1590  Bijapur  180
+1590  Cairo  230
+1590  Hangzhou  266
+1590  Istanbul  692
+1590  Kyoto  300
+1590  Nanjing  193
+1590  Naples  220
+1590  Osaka  203
+1590  Paris  220
+    
+12    
+1591  Agra  392
+1591  Ahmedabad  180
+1591  Beijing  706
+1591  Bijapur  182
+1591  Cairo  227
+1591  Hangzhou  266
+1591  Istanbul  693
+1591  Kyoto  300
+1591  Nanjing  194
+1591  Naples  221
+1591  Osaka  218
+1591  Paris  222
+    
+12    
+1592  Agra  404
+1592  Ahmedabad  180
+1592  Beijing  706
+1592  Bijapur  184
+1592  Cairo  224
+1592  Hangzhou  267
+1592  Istanbul  694
+1592  Kyoto  300
+1592  Nanjing  194
+1592  Naples  221
+1592  Osaka  234
+1592  Paris  223
+    
+12    
+1593  Agra  416
+1593  Ahmedabad  180
+1593  Beijing  706
+1593  Bijapur  186
+1593  Cairo  221
+1593  Hangzhou  267
+1593  Istanbul  694
+1593  Kyoto  300
+1593  Nanjing  194
+1593  Naples  222
+1593  Osaka  250
+1593  Paris  225
+    
+12    
+1594  Agra  428
+1594  Ahmedabad  180
+1594  Beijing  706
+1594  Bijapur  188
+1594  Cairo  218
+1594  Hangzhou  268
+1594  Istanbul  695
+1594  Kyoto  300
+1594  Nanjing  194
+1594  Naples  222
+1594  Osaka  266
+1594  Paris  227
+    
+12    
+1595  Agra  440
+1595  Ahmedabad  180
+1595  Beijing  706
+1595  Bijapur  190
+1595  Cairo  215
+1595  Hangzhou  268
+1595  Istanbul  696
+1595  Kyoto  300
+1595  Nanjing  194
+1595  Naples  222
+1595  Osaka  281
+1595  Paris  228
+    
+12    
+1596  Agra  452
+1596  Ahmedabad  180
+1596  Beijing  706
+1596  Bijapur  192
+1596  Cairo  212
+1596  Hangzhou  268
+1596  Istanbul  697
+1596  Kyoto  300
+1596  Nanjing  194
+1596  Naples  223
+1596  Osaka  297
+1596  Paris  230
+    
+12    
+1597  Agra  464
+1597  Ahmedabad  183
+1597  Beijing  706
+1597  Bijapur  194
+1597  Cairo  209
+1597  Hangzhou  269
+1597  Istanbul  698
+1597  Kyoto  300
+1597  Nanjing  194
+1597  Naples  223
+1597  Osaka  313
+1597  Paris  234
+    
+12    
+1598  Agra  476
+1598  Ahmedabad  185
+1598  Beijing  706
+1598  Bijapur  196
+1598  Cairo  206
+1598  Hangzhou  269
+1598  Istanbul  698
+1598  Kyoto  300
+1598  Nanjing  194
+1598  Naples  223
+1598  Osaka  329
+1598  Paris  238
+    
+12    
+1599  Agra  488
+1599  Ahmedabad  188
+1599  Beijing  706
+1599  Bijapur  198
+1599  Cairo  203
+1599  Hangzhou  270
+1599  Istanbul  699
+1599  Kyoto  300
+1599  Nanjing  194
+1599  Naples  224
+1599  Osaka  344
+1599  Paris  241
+    
+12    
+1600  Agra  500
+1600  Ahmedabad  190
+1600  Beijing  706
+1600  Bijapur  200
+1600  Cairo  200
+1600  Hangzhou  270
+1600  Istanbul  700
+1600  Kyoto  300
+1600  Nanjing  194
+1600  Naples  224
+1600  Osaka  360
+1600  Paris  245
+    
+12    
+1601  Agra  500
+1601  Ahmedabad  192
+1601  Beijing  701
+1601  Bijapur  203
+1601  Cairo  200
+1601  Hangzhou  270
+1601  Istanbul  700
+1601  Kyoto  305
+1601  Nanjing  194
+1601  Naples  225
+1601  Osaka  360
+1601  Paris  250
+    
+12    
+1602  Agra  500
+1602  Ahmedabad  194
+1602  Beijing  697
+1602  Bijapur  205
+1602  Cairo  199
+1602  Hangzhou  270
+1602  Istanbul  700
+1602  Kyoto  309
+1602  London  196
+1602  Naples  226
+1602  Osaka  359
+1602  Paris  254
+    
+12    
+1603  Agra  500
+1603  Ahmedabad  196
+1603  Beijing  692
+1603  Bijapur  208
+1603  Cairo  199
+1603  Hangzhou  271
+1603  Istanbul  700
+1603  Kyoto  314
+1603  London  200
+1603  Naples  227
+1603  Osaka  359
+1603  Paris  259
+    
+12    
+1604  Agra  500
+1604  Ahmedabad  198
+1604  Beijing  687
+1604  Bijapur  210
+1604  Cairo  198
+1604  Hangzhou  271
+1604  Istanbul  700
+1604  Kyoto  318
+1604  London  205
+1604  Naples  227
+1604  Osaka  359
+1604  Paris  263
+    
+12    
+1605  Agra  500
+1605  Ahmedabad  200
+1605  Beijing  682
+1605  Bijapur  213
+1605  Cairo  198
+1605  Hangzhou  271
+1605  Istanbul  700
+1605  Kyoto  323
+1605  London  209
+1605  Naples  228
+1605  Osaka  359
+1605  Paris  268
+    
+12    
+1606  Agra  500
+1606  Ahmedabad  202
+1606  Beijing  678
+1606  Bijapur  215
+1606  Cairo  197
+1606  Hangzhou  271
+1606  Istanbul  700
+1606  Kyoto  328
+1606  London  214
+1606  Naples  229
+1606  Osaka  358
+1606  Paris  272
+    
+12    
+1607  Agra  500
+1607  Ahmedabad  204
+1607  Beijing  673
+1607  Bijapur  218
+1607  Cairo  197
+1607  Hangzhou  271
+1607  Istanbul  700
+1607  Kyoto  332
+1607  London  218
+1607  Naples  230
+1607  Osaka  358
+1607  Paris  277
+    
+12    
+1608  Agra  500
+1608  Ahmedabad  206
+1608  Beijing  668
+1608  Bijapur  221
+1608  Cairo  196
+1608  Hangzhou  272
+1608  Istanbul  700
+1608  Kyoto  337
+1608  London  223
+1608  Naples  231
+1608  Osaka  358
+1608  Paris  281
+    
+12    
+1609  Agra  500
+1609  Ahmedabad  208
+1609  Beijing  664
+1609  Bijapur  223
+1609  Cairo  196
+1609  Hangzhou  272
+1609  Istanbul  700
+1609  Kyoto  341
+1609  London  227
+1609  Naples  231
+1609  Osaka  357
+1609  Paris  286
+    
+12    
+1610  Agra  500
+1610  Ahmedabad  210
+1610  Beijing  659
+1610  Bijapur  226
+1610  Cairo  195
+1610  Hangzhou  272
+1610  Istanbul  700
+1610  Kyoto  346
+1610  London  232
+1610  Naples  232
+1610  Osaka  357
+1610  Paris  290
+    
+12    
+1611  Agra  496
+1611  Ahmedabad  212
+1611  Beijing  654
+1611  Bijapur  228
+1611  Cairo  195
+1611  Hangzhou  272
+1611  Istanbul  700
+1611  Kyoto  350
+1611  London  236
+1611  Naples  233
+1611  Osaka  357
+1611  Paris  295
+    
+12    
+1612  Agra  493
+1612  Ahmedabad  214
+1612  Beijing  649
+1612  Bijapur  231
+1612  Esfahan  196
+1612  Hangzhou  272
+1612  Istanbul  700
+1612  Kyoto  355
+1612  London  241
+1612  Naples  234
+1612  Osaka  357
+1612  Paris  299
+    
+12    
+1613  Agra  489
+1613  Ahmedabad  216
+1613  Beijing  645
+1613  Bijapur  233
+1613  Esfahan  204
+1613  Hangzhou  273
+1613  Istanbul  700
+1613  Kyoto  360
+1613  London  245
+1613  Naples  235
+1613  Osaka  356
+1613  Paris  304
+    
+12    
+1614  Agra  486
+1614  Ahmedabad  218
+1614  Beijing  640
+1614  Bijapur  236
+1614  Esfahan  213
+1614  Hangzhou  273
+1614  Istanbul  700
+1614  Kyoto  364
+1614  London  249
+1614  Naples  236
+1614  Osaka  356
+1614  Paris  308
+    
+12    
+1615  Agra  482
+1615  Ahmedabad  220
+1615  Beijing  635
+1615  Bijapur  238
+1615  Esfahan  221
+1615  Hangzhou  273
+1615  Istanbul  700
+1615  Kyoto  369
+1615  London  254
+1615  Naples  236
+1615  Osaka  356
+1615  Paris  313
+    
+12    
+1616  Agra  479
+1616  Ahmedabad  222
+1616  Beijing  630
+1616  Bijapur  241
+1616  Esfahan  229
+1616  Hangzhou  273
+1616  Istanbul  700
+1616  Kyoto  373
+1616  London  258
+1616  Naples  237
+1616  Osaka  356
+1616  Paris  317
+    
+12    
+1617  Agra  475
+1617  Ahmedabad  224
+1617  Beijing  626
+1617  Bijapur  244
+1617  Esfahan  237
+1617  Hangzhou  273
+1617  Istanbul  700
+1617  Kyoto  378
+1617  London  263
+1617  Naples  238
+1617  Osaka  355
+1617  Paris  322
+    
+12    
+1618  Agra  471
+1618  Beijing  621
+1618  Bijapur  246
+1618  Esfahan  245
+1618  Hangzhou  274
+1618  Istanbul  700
+1618  Kyoto  383
+1618  London  267
+1618  Naples  239
+1618  Osaka  355
+1618  Paris  326
+1618  Tokyo  227
+    
+12    
+1619  Agra  468
+1619  Beijing  616
+1619  Bijapur  249
+1619  Esfahan  253
+1619  Hangzhou  274
+1619  Istanbul  700
+1619  Kyoto  387
+1619  London  272
+1619  Naples  240
+1619  Osaka  355
+1619  Paris  331
+1619  Tokyo  235
+    
+12    
+1620  Agra  464
+1620  Beijing  612
+1620  Bijapur  251
+1620  Esfahan  261
+1620  Hangzhou  274
+1620  Istanbul  700
+1620  Kyoto  392
+1620  London  276
+1620  Naples  240
+1620  Osaka  354
+1620  Paris  335
+1620  Tokyo  244
+    
+12    
+1621  Agra  461
+1621  Beijing  607
+1621  Bijapur  254
+1621  Esfahan  269
+1621  Hangzhou  274
+1621  Istanbul  700
+1621  Kyoto  396
+1621  London  281
+1621  Naples  241
+1621  Osaka  354
+1621  Paris  340
+1621  Tokyo  252
+    
+12    
+1622  Agra  457
+1622  Beijing  602
+1622  Bijapur  256
+1622  Esfahan  277
+1622  Hangzhou  274
+1622  Istanbul  700
+1622  Kyoto  401
+1622  London  285
+1622  Naples  242
+1622  Osaka  354
+1622  Paris  344
+1622  Tokyo  261
+    
+12    
+1623  Agra  454
+1623  Beijing  597
+1623  Bijapur  259
+1623  Esfahan  285
+1623  Hangzhou  275
+1623  Istanbul  700
+1623  Kyoto  405
+1623  London  290
+1623  Naples  243
+1623  Osaka  354
+1623  Paris  349
+1623  Tokyo  270
+    
+12    
+1624  Agra  450
+1624  Beijing  593
+1624  Bijapur  262
+1624  Esfahan  293
+1624  Hangzhou  275
+1624  Istanbul  700
+1624  Kyoto  410
+1624  London  294
+1624  Naples  244
+1624  Osaka  353
+1624  Paris  353
+1624  Tokyo  278
+    
+12    
+1625  Agra  446
+1625  Beijing  588
+1625  Bijapur  264
+1625  Esfahan  301
+1625  Hangzhou  275
+1625  Istanbul  700
+1625  Kyoto  410
+1625  London  299
+1625  Naples  245
+1625  Osaka  353
+1625  Paris  358
+1625  Tokyo  287
+    
+12    
+1626  Agra  443
+1626  Beijing  583
+1626  Bijapur  267
+1626  Esfahan  309
+1626  Hangzhou  275
+1626  Istanbul  700
+1626  Kyoto  410
+1626  London  303
+1626  Naples  245
+1626  Osaka  353
+1626  Paris  362
+1626  Tokyo  295
+    
+12    
+1627  Agra  439
+1627  Beijing  579
+1627  Bijapur  269
+1627  Esfahan  317
+1627  Hangzhou  275
+1627  Istanbul  700
+1627  Kyoto  410
+1627  London  307
+1627  Naples  246
+1627  Osaka  352
+1627  Paris  367
+1627  Tokyo  304
+    
+12    
+1628  Agra  436
+1628  Beijing  574
+1628  Bijapur  272
+1628  Esfahan  325
+1628  Hangzhou  276
+1628  Istanbul  700
+1628  Kyoto  410
+1628  London  312
+1628  Naples  247
+1628  Osaka  352
+1628  Paris  371
+1628  Tokyo  312
+    
+12    
+1629  Agra  432
+1629  Ahmedabad  248
+1629  Beijing  569
+1629  Bijapur  274
+1629  Esfahan  326
+1629  Hangzhou  276
+1629  Istanbul  700
+1629  Kyoto  410
+1629  London  316
+1629  Osaka  352
+1629  Paris  376
+1629  Tokyo  321
+    
+12    
+1630  Agra  429
+1630  Ahmedabad  250
+1630  Beijing  564
+1630  Bijapur  277
+1630  Esfahan  327
+1630  Hangzhou  276
+1630  Istanbul  700
+1630  Kyoto  410
+1630  London  321
+1630  Osaka  352
+1630  Paris  380
+1630  Tokyo  329
+    
+12    
+1631  Agra  425
+1631  Ahmedabad  252
+1631  Beijing  560
+1631  Bijapur  279
+1631  Esfahan  328
+1631  Hangzhou  276
+1631  Istanbul  700
+1631  Kyoto  410
+1631  London  325
+1631  Osaka  351
+1631  Paris  385
+1631  Tokyo  338
+    
+12    
+1632  Agra  421
+1632  Ahmedabad  254
+1632  Beijing  555
+1632  Bijapur  282
+1632  Esfahan  330
+1632  Hangzhou  277
+1632  Istanbul  700
+1632  Kyoto  410
+1632  London  330
+1632  Osaka  351
+1632  Paris  389
+1632  Tokyo  346
+    
+12    
+1633  Agra  418
+1633  Ahmedabad  256
+1633  Beijing  550
+1633  Bijapur  285
+1633  Esfahan  331
+1633  Hangzhou  277
+1633  Istanbul  700
+1633  Kyoto  409
+1633  London  334
+1633  Osaka  351
+1633  Paris  394
+1633  Tokyo  355
+    
+12    
+1634  Agra  414
+1634  Ahmedabad  258
+1634  Beijing  546
+1634  Bijapur  287
+1634  Esfahan  332
+1634  Hangzhou  277
+1634  Istanbul  700
+1634  Kyoto  408
+1634  London  339
+1634  Osaka  350
+1634  Paris  398
+1634  Tokyo  363
+    
+12    
+1635  Agra  411
+1635  Ahmedabad  260
+1635  Beijing  541
+1635  Bijapur  290
+1635  Esfahan  333
+1635  Hangzhou  277
+1635  Istanbul  700
+1635  Kyoto  407
+1635  London  343
+1635  Osaka  350
+1635  Paris  403
+1635  Tokyo  372
+    
+12    
+1636  Agra  407
+1636  Ahmedabad  262
+1636  Beijing  536
+1636  Bijapur  292
+1636  Esfahan  334
+1636  Hangzhou  278
+1636  Istanbul  700
+1636  Kyoto  406
+1636  London  348
+1636  Osaka  350
+1636  Paris  407
+1636  Tokyo  380
+    
+12    
+1637  Agra  404
+1637  Ahmedabad  264
+1637  Beijing  531
+1637  Bijapur  295
+1637  Esfahan  335
+1637  Hangzhou  278
+1637  Istanbul  700
+1637  Kyoto  405
+1637  London  352
+1637  Osaka  350
+1637  Paris  412
+1637  Tokyo  389
+    
+12    
+1638  Agra  400
+1638  Ahmedabad  266
+1638  Beijing  527
+1638  Bijapur  297
+1638  Esfahan  336
+1638  Hangzhou  278
+1638  Istanbul  700
+1638  Kyoto  405
+1638  London  356
+1638  Osaka  349
+1638  Paris  415
+1638  Tokyo  398
+    
+12    
+1639  Agra  377
+1639  Ahmedabad  267
+1639  Beijing  522
+1639  Bijapur  300
+1639  Esfahan  338
+1639  Hangzhou  278
+1639  Istanbul  700
+1639  Kyoto  404
+1639  London  361
+1639  Osaka  349
+1639  Paris  419
+1639  Tokyo  406
+    
+12    
+1640  Agra  353
+1640  Ahmedabad  268
+1640  Beijing  517
+1640  Bijapur  304
+1640  Esfahan  339
+1640  Hangzhou  279
+1640  Istanbul  700
+1640  Kyoto  403
+1640  London  365
+1640  Osaka  349
+1640  Paris  422
+1640  Tokyo  415
+    
+12    
+1641  Agra  330
+1641  Ahmedabad  268
+1641  Beijing  512
+1641  Bijapur  309
+1641  Esfahan  340
+1641  Hangzhou  279
+1641  Istanbul  700
+1641  Kyoto  402
+1641  London  370
+1641  Osaka  349
+1641  Paris  425
+1641  Tokyo  423
+    
+12    
+1642  Agra  307
+1642  Ahmedabad  269
+1642  Beijing  508
+1642  Bijapur  313
+1642  Esfahan  341
+1642  Hangzhou  279
+1642  Istanbul  700
+1642  Kyoto  401
+1642  London  374
+1642  Osaka  348
+1642  Paris  429
+1642  Tokyo  432
+    
+12    
+1643  Agra  283
+1643  Ahmedabad  270
+1643  Beijing  503
+1643  Bijapur  318
+1643  Esfahan  342
+1643  Hangzhou  279
+1643  Istanbul  700
+1643  Kyoto  400
+1643  London  379
+1643  Osaka  348
+1643  Paris  432
+1643  Tokyo  440
+    
+12    
+1644  Ahmedabad  271
+1644  Beijing  498
+1644  Bijapur  322
+1644  Esfahan  343
+1644  Hangzhou  280
+1644  Istanbul  700
+1644  Kyoto  399
+1644  London  383
+1644  Naples  260
+1644  Osaka  348
+1644  Paris  435
+1644  Tokyo  449
+    
+12    
+1645  Ahmedabad  271
+1645  Beijing  494
+1645  Bijapur  327
+1645  Esfahan  344
+1645  Hangzhou  280
+1645  Istanbul  700
+1645  Kyoto  398
+1645  London  388
+1645  Naples  261
+1645  Osaka  347
+1645  Paris  438
+1645  Tokyo  457
+    
+12    
+1646  Ahmedabad  272
+1646  Beijing  489
+1646  Bijapur  331
+1646  Esfahan  345
+1646  Hangzhou  280
+1646  Istanbul  700
+1646  Kyoto  397
+1646  London  392
+1646  Naples  262
+1646  Osaka  347
+1646  Paris  442
+1646  Tokyo  466
+    
+12    
+1647  Ahmedabad  273
+1647  Beijing  484
+1647  Bijapur  336
+1647  Esfahan  347
+1647  Hangzhou  280
+1647  Istanbul  700
+1647  Kyoto  396
+1647  London  397
+1647  Naples  263
+1647  Osaka  347
+1647  Paris  445
+1647  Tokyo  474
+    
+12    
+1648  Ahmedabad  274
+1648  Beijing  479
+1648  Bijapur  340
+1648  Esfahan  348
+1648  Hangzhou  281
+1648  Istanbul  700
+1648  Kyoto  395
+1648  London  401
+1648  Naples  263
+1648  Osaka  347
+1648  Paris  448
+1648  Tokyo  483
+    
+12    
+1649  Ahmedabad  274
+1649  Beijing  475
+1649  Bijapur  340
+1649  Esfahan  349
+1649  Hangzhou  281
+1649  Istanbul  700
+1649  Kyoto  394
+1649  London  406
+1649  Naples  264
+1649  Osaka  346
+1649  Paris  452
+1649  Tokyo  491
+    
+12    
+1650  Ahmedabad  275
+1650  Beijing  470
+1650  Bijapur  340
+1650  Esfahan  350
+1650  Hangzhou  281
+1650  Istanbul  700
+1650  Kyoto  393
+1650  London  410
+1650  Naples  265
+1650  Osaka  346
+1650  Paris  455
+1650  Tokyo  500
+    
+12    
+1651  Ahmedabad  277
+1651  Beijing  474
+1651  Bijapur  338
+1651  Esfahan  350
+1651  Hangzhou  281
+1651  Istanbul  701
+1651  Kyoto  393
+1651  London  413
+1651  Naples  263
+1651  Osaka  345
+1651  Paris  458
+1651  Tokyo  504
+    
+12    
+1652  Ahmedabad  279
+1652  Beijing  477
+1652  Bijapur  337
+1652  Esfahan  351
+1652  Hangzhou  281
+1652  Istanbul  703
+1652  Kyoto  392
+1652  London  416
+1652  Naples  261
+1652  Osaka  345
+1652  Paris  462
+1652  Tokyo  508
+    
+12    
+1653  Ahmedabad  282
+1653  Beijing  481
+1653  Bijapur  335
+1653  Esfahan  351
+1653  Hangzhou  281
+1653  Istanbul  704
+1653  Kyoto  391
+1653  London  419
+1653  Naples  259
+1653  Osaka  344
+1653  Paris  465
+1653  Tokyo  511
+    
+12    
+1654  Ahmedabad  284
+1654  Beijing  484
+1654  Bijapur  333
+1654  Esfahan  352
+1654  Hangzhou  281
+1654  Istanbul  705
+1654  Kyoto  390
+1654  London  422
+1654  Naples  257
+1654  Osaka  344
+1654  Paris  469
+1654  Tokyo  515
+    
+12    
+1655  Ahmedabad  286
+1655  Beijing  488
+1655  Bijapur  332
+1655  Esfahan  352
+1655  Hangzhou  282
+1655  Istanbul  706
+1655  Kyoto  389
+1655  London  425
+1655  Naples  255
+1655  Osaka  343
+1655  Paris  472
+1655  Tokyo  519
+    
+12    
+1656  Ahmedabad  288
+1656  Beijing  492
+1656  Bijapur  330
+1656  Esfahan  353
+1656  Hangzhou  282
+1656  Istanbul  708
+1656  Kyoto  388
+1656  London  428
+1656  Naples  253
+1656  Osaka  343
+1656  Paris  475
+1656  Tokyo  523
+    
+12    
+1657  Ahmedabad  290
+1657  Beijing  495
+1657  Bijapur  329
+1657  Esfahan  353
+1657  Hangzhou  282
+1657  Istanbul  709
+1657  Kyoto  387
+1657  London  430
+1657  Naples  251
+1657  Osaka  342
+1657  Paris  479
+1657  Tokyo  526
+    
+12    
+1658  Ahmedabad  293
+1658  Beijing  499
+1658  Bijapur  327
+1658  Esfahan  353
+1658  Hangzhou  282
+1658  Istanbul  710
+1658  Kyoto  386
+1658  London  433
+1658  Naples  249
+1658  Osaka  342
+1658  Paris  482
+1658  Tokyo  530
+    
+12    
+1659  Ahmedabad  295
+1659  Beijing  502
+1659  Bijapur  325
+1659  Esfahan  354
+1659  Hangzhou  283
+1659  Istanbul  711
+1659  Kyoto  385
+1659  London  436
+1659  Naples  246
+1659  Osaka  341
+1659  Paris  486
+1659  Tokyo  534
+    
+12    
+1660  Ahmedabad  297
+1660  Beijing  506
+1660  Bijapur  324
+1660  Esfahan  354
+1660  Hangzhou  283
+1660  Istanbul  713
+1660  Kyoto  384
+1660  London  439
+1660  Naples  244
+1660  Osaka  341
+1660  Paris  489
+1660  Tokyo  538
+    
+12    
+1661  Ahmedabad  299
+1661  Beijing  510
+1661  Bijapur  322
+1661  Esfahan  355
+1661  Hangzhou  284
+1661  Istanbul  714
+1661  Kyoto  383
+1661  London  442
+1661  Naples  242
+1661  Osaka  340
+1661  Paris  492
+1661  Tokyo  541
+    
+12    
+1662  Ahmedabad  301
+1662  Beijing  513
+1662  Bijapur  320
+1662  Esfahan  355
+1662  Hangzhou  284
+1662  Istanbul  715
+1662  Kyoto  382
+1662  London  445
+1662  Naples  240
+1662  Osaka  340
+1662  Paris  496
+1662  Tokyo  545
+    
+12    
+1663  Ahmedabad  304
+1663  Beijing  517
+1663  Bijapur  319
+1663  Esfahan  356
+1663  Hangzhou  284
+1663  Istanbul  716
+1663  Kyoto  381
+1663  London  448
+1663  Naples  238
+1663  Osaka  339
+1663  Paris  499
+1663  Tokyo  549
+    
+12    
+1664  Ahmedabad  306
+1664  Beijing  520
+1664  Bijapur  317
+1664  Esfahan  356
+1664  Hangzhou  285
+1664  Istanbul  718
+1664  Kyoto  381
+1664  London  451
+1664  Naples  236
+1664  Osaka  339
+1664  Paris  503
+1664  Tokyo  553
+    
+12    
+1665  Ahmedabad  308
+1665  Beijing  524
+1665  Bijapur  316
+1665  Esfahan  357
+1665  Hangzhou  285
+1665  Istanbul  719
+1665  Kyoto  380
+1665  London  454
+1665  Naples  234
+1665  Osaka  338
+1665  Paris  506
+1665  Tokyo  556
+    
+12    
+1666  Ahmedabad  310
+1666  Beijing  528
+1666  Bijapur  314
+1666  Esfahan  357
+1666  Hangzhou  286
+1666  Istanbul  720
+1666  Kyoto  379
+1666  London  457
+1666  Naples  232
+1666  Osaka  339
+1666  Paris  509
+1666  Tokyo  560
+    
+12    
+1667  Ahmedabad  312
+1667  Beijing  531
+1667  Bijapur  312
+1667  Esfahan  357
+1667  Hangzhou  286
+1667  Istanbul  721
+1667  Kyoto  378
+1667  London  460
+1667  Naples  230
+1667  Osaka  341
+1667  Paris  513
+1667  Tokyo  564
+    
+12    
+1668  Ahmedabad  315
+1668  Beijing  535
+1668  Bijapur  311
+1668  Esfahan  358
+1668  Hangzhou  287
+1668  Istanbul  723
+1668  Kyoto  377
+1668  London  463
+1668  Naples  228
+1668  Osaka  342
+1668  Paris  516
+1668  Tokyo  568
+    
+12    
+1669  Ahmedabad  317
+1669  Beijing  538
+1669  Bijapur  309
+1669  Esfahan  358
+1669  Hangzhou  287
+1669  Istanbul  724
+1669  Kyoto  376
+1669  London  466
+1669  Naples  226
+1669  Osaka  343
+1669  Paris  520
+1669  Tokyo  571
+    
+12    
+1670  Ahmedabad  319
+1670  Beijing  542
+1670  Bijapur  307
+1670  Esfahan  359
+1670  Hangzhou  288
+1670  Istanbul  725
+1670  Kyoto  375
+1670  London  469
+1670  Naples  224
+1670  Osaka  344
+1670  Paris  523
+1670  Tokyo  575
+    
+12    
+1671  Ahmedabad  321
+1671  Beijing  546
+1671  Bijapur  306
+1671  Esfahan  359
+1671  Hangzhou  288
+1671  Istanbul  726
+1671  Kyoto  374
+1671  London  471
+1671  Naples  222
+1671  Osaka  345
+1671  Paris  526
+1671  Tokyo  579
+    
+12    
+1672  Ahmedabad  323
+1672  Beijing  549
+1672  Bijapur  304
+1672  Esfahan  360
+1672  Hangzhou  288
+1672  Istanbul  728
+1672  Kyoto  373
+1672  London  474
+1672  Naples  220
+1672  Osaka  347
+1672  Paris  530
+1672  Tokyo  583
+    
+12    
+1673  Ahmedabad  326
+1673  Beijing  553
+1673  Bijapur  303
+1673  Esfahan  360
+1673  Hangzhou  289
+1673  Istanbul  729
+1673  Kyoto  372
+1673  London  477
+1673  Naples  218
+1673  Osaka  348
+1673  Paris  533
+1673  Tokyo  586
+    
+12    
+1674  Ahmedabad  328
+1674  Beijing  556
+1674  Bijapur  301
+1674  Esfahan  360
+1674  Hangzhou  289
+1674  Istanbul  730
+1674  Kyoto  371
+1674  London  480
+1674  Naples  216
+1674  Osaka  349
+1674  Paris  537
+1674  Tokyo  590
+    
+12    
+1675  Ahmedabad  330
+1675  Beijing  560
+1675  Bijapur  299
+1675  Esfahan  359
+1675  Hangzhou  290
+1675  Istanbul  731
+1675  Kyoto  370
+1675  London  483
+1675  Naples  214
+1675  Osaka  350
+1675  Paris  540
+1675  Tokyo  594
+    
+12    
+1676  Ahmedabad  332
+1676  Beijing  564
+1676  Bijapur  298
+1676  Esfahan  359
+1676  Hangzhou  290
+1676  Istanbul  733
+1676  Kyoto  369
+1676  London  486
+1676  Naples  211
+1676  Osaka  351
+1676  Paris  542
+1676  Tokyo  598
+    
+12    
+1677  Ahmedabad  334
+1677  Beijing  567
+1677  Bijapur  296
+1677  Esfahan  359
+1677  Hangzhou  291
+1677  Istanbul  734
+1677  Kyoto  369
+1677  London  489
+1677  Naples  209
+1677  Osaka  352
+1677  Paris  545
+1677  Tokyo  602
+    
+12    
+1678  Ahmedabad  337
+1678  Beijing  571
+1678  Bijapur  294
+1678  Esfahan  358
+1678  Hangzhou  291
+1678  Istanbul  735
+1678  Kyoto  368
+1678  London  492
+1678  Naples  207
+1678  Osaka  354
+1678  Paris  547
+1678  Tokyo  605
+    
+12    
+1679  Ahmedabad  339
+1679  Beijing  574
+1679  Bijapur  293
+1679  Esfahan  358
+1679  Hangzhou  292
+1679  Istanbul  736
+1679  Kyoto  367
+1679  London  495
+1679  Naples  205
+1679  Osaka  355
+1679  Paris  550
+1679  Tokyo  609
+    
+12    
+1680  Ahmedabad  341
+1680  Beijing  578
+1680  Bijapur  291
+1680  Esfahan  357
+1680  Hangzhou  292
+1680  Istanbul  738
+1680  Kyoto  366
+1680  London  498
+1680  Naples  203
+1680  Osaka  356
+1680  Paris  552
+1680  Tokyo  613
+    
+12    
+1681  Ahmedabad  343
+1681  Beijing  582
+1681  Bijapur  290
+1681  Esfahan  357
+1681  Hangzhou  292
+1681  Istanbul  739
+1681  Kyoto  365
+1681  London  501
+1681  Naples  201
+1681  Osaka  357
+1681  Paris  554
+1681  Tokyo  617
+    
+12    
+1682  Ahmedabad  345
+1682  Beijing  585
+1682  Bijapur  288
+1682  Esfahan  357
+1682  Hangzhou  293
+1682  Istanbul  740
+1682  Kyoto  364
+1682  London  504
+1682  Naples  199
+1682  Osaka  358
+1682  Paris  557
+1682  Tokyo  620
+    
+12    
+1683  Ahmedabad  348
+1683  Beijing  589
+1683  Bijapur  286
+1683  Esfahan  356
+1683  Hangzhou  294
+1683  Istanbul  741
+1683  Kyoto  363
+1683  London  507
+1683  Naples  197
+1683  Osaka  360
+1683  Paris  559
+1683  Tokyo  624
+    
+12    
+1684  Ahmedabad  350
+1684  Amsterdam  204
+1684  Beijing  592
+1684  Bijapur  285
+1684  Esfahan  356
+1684  Hangzhou  294
+1684  Istanbul  743
+1684  Kyoto  362
+1684  London  509
+1684  Osaka  361
+1684  Paris  557
+1684  Tokyo  628
+    
+12    
+1685  Ahmedabad  352
+1685  Amsterdam  212
+1685  Beijing  596
+1685  Bijapur  283
+1685  Esfahan  356
+1685  Hangzhou  295
+1685  Istanbul  744
+1685  Kyoto  361
+1685  London  512
+1685  Osaka  362
+1685  Paris  556
+1685  Tokyo  632
+    
+12    
+1686  Ahmedabad  354
+1686  Amsterdam  212
+1686  Beijing  600
+1686  Bijapur  281
+1686  Esfahan  355
+1686  Hangzhou  295
+1686  Istanbul  745
+1686  Kyoto  360
+1686  London  515
+1686  Osaka  363
+1686  Paris  554
+1686  Tokyo  635
+    
+12    
+1687  Ahmedabad  356
+1687  Amsterdam  212
+1687  Beijing  603
+1687  Bijapur  280
+1687  Esfahan  355
+1687  Hangzhou  296
+1687  Istanbul  746
+1687  Kyoto  359
+1687  London  518
+1687  Osaka  364
+1687  Paris  552
+1687  Tokyo  639
+    
+12    
+1688  Ahmedabad  359
+1688  Amsterdam  212
+1688  Beijing  607
+1688  Bijapur  278
+1688  Esfahan  354
+1688  Hangzhou  296
+1688  Istanbul  748
+1688  Kyoto  358
+1688  London  521
+1688  Osaka  366
+1688  Paris  550
+1688  Tokyo  643
+    
+12    
+1689  Ahmedabad  361
+1689  Amsterdam  211
+1689  Beijing  610
+1689  Bijapur  276
+1689  Esfahan  354
+1689  Hangzhou  297
+1689  Istanbul  749
+1689  Kyoto  357
+1689  London  524
+1689  Osaka  367
+1689  Paris  549
+1689  Tokyo  647
+    
+12    
+1690  Ahmedabad  363
+1690  Amsterdam  211
+1690  Beijing  614
+1690  Bijapur  275
+1690  Esfahan  354
+1690  Hangzhou  297
+1690  Istanbul  750
+1690  Kyoto  357
+1690  London  527
+1690  Osaka  368
+1690  Paris  547
+1690  Tokyo  650
+    
+12    
+1691  Ahmedabad  365
+1691  Amsterdam  211
+1691  Beijing  618
+1691  Bijapur  273
+1691  Esfahan  353
+1691  Hangzhou  298
+1691  Istanbul  745
+1691  Kyoto  356
+1691  London  529
+1691  Osaka  369
+1691  Paris  545
+1691  Tokyo  654
+    
+12    
+1692  Ahmedabad  367
+1692  Amsterdam  211
+1692  Beijing  621
+1692  Bijapur  272
+1692  Esfahan  353
+1692  Hangzhou  299
+1692  Istanbul  740
+1692  Kyoto  355
+1692  London  532
+1692  Osaka  370
+1692  Paris  544
+1692  Tokyo  658
+    
+12    
+1693  Ahmedabad  370
+1693  Amsterdam  211
+1693  Beijing  625
+1693  Bijapur  270
+1693  Esfahan  353
+1693  Hangzhou  299
+1693  Istanbul  735
+1693  Kyoto  354
+1693  London  534
+1693  Osaka  372
+1693  Paris  542
+1693  Tokyo  662
+    
+12    
+1694  Ahmedabad  372
+1694  Amsterdam  211
+1694  Beijing  628
+1694  Bijapur  268
+1694  Esfahan  352
+1694  Hangzhou  300
+1694  Istanbul  730
+1694  Kyoto  353
+1694  London  536
+1694  Osaka  373
+1694  Paris  540
+1694  Tokyo  665
+    
+12    
+1695  Ahmedabad  374
+1695  Amsterdam  211
+1695  Beijing  632
+1695  Bijapur  267
+1695  Esfahan  352
+1695  Hangzhou  300
+1695  Istanbul  725
+1695  Kyoto  352
+1695  London  539
+1695  Osaka  374
+1695  Paris  539
+1695  Tokyo  669
+    
+12    
+1696  Ahmedabad  376
+1696  Beijing  636
+1696  Bijapur  265
+1696  Esfahan  351
+1696  Hangzhou  301
+1696  Istanbul  720
+1696  Kyoto  351
+1696  London  541
+1696  Mashhad  211
+1696  Osaka  375
+1696  Paris  537
+1696  Tokyo  673
+    
+12    
+1697  Ahmedabad  378
+1697  Beijing  639
+1697  Bijapur  263
+1697  Esfahan  351
+1697  Hangzhou  301
+1697  Istanbul  715
+1697  Kyoto  351
+1697  London  543
+1697  Mashhad  213
+1697  Osaka  376
+1697  Paris  535
+1697  Tokyo  677
+    
+12    
+1698  Ahmedabad  381
+1698  Beijing  643
+1698  Bijapur  262
+1698  Esfahan  351
+1698  Hangzhou  302
+1698  Istanbul  710
+1698  Kyoto  350
+1698  London  545
+1698  Mashhad  215
+1698  Osaka  378
+1698  Paris  533
+1698  Tokyo  680
+    
+12    
+1699  Ahmedabad  383
+1699  Beijing  646
+1699  Bijapur  260
+1699  Esfahan  350
+1699  Hangzhou  302
+1699  Istanbul  705
+1699  Kyoto  350
+1699  London  548
+1699  Mashhad  217
+1699  Osaka  379
+1699  Paris  532
+1699  Tokyo  684
+    
+12    
+1700  Ahmedabad  385
+1700  Beijing  650
+1700  Bijapur  259
+1700  Esfahan  350
+1700  Hangzhou  303
+1700  Istanbul  700
+1700  Kyoto  350
+1700  London  550
+1700  Mashhad  219
+1700  Osaka  380
+1700  Paris  530
+1700  Tokyo  688
+    
+12    
+1701  Ahmedabad  379
+1701  Beijing  655
+1701  Bijapur  257
+1701  Esfahan  343
+1701  Hangzhou  304
+1701  Istanbul  699
+1701  Kyoto  350
+1701  London  553
+1701  Mashhad  221
+1701  Osaka  381
+1701  Paris  529
+1701  Tokyo  689
+    
+12    
+1702  Ahmedabad  374
+1702  Beijing  660
+1702  Bijapur  255
+1702  Esfahan  336
+1702  Hangzhou  304
+1702  Istanbul  697
+1702  Kyoto  350
+1702  London  555
+1702  Mashhad  223
+1702  Osaka  381
+1702  Paris  527
+1702  Tokyo  690
+    
+12    
+1703  Ahmedabad  368
+1703  Beijing  665
+1703  Bijapur  254
+1703  Esfahan  329
+1703  Hangzhou  305
+1703  Istanbul  696
+1703  Kyoto  350
+1703  London  558
+1703  Mashhad  225
+1703  Osaka  382
+1703  Paris  526
+1703  Tokyo  690
+    
+12    
+1704  Ahmedabad  362
+1704  Beijing  670
+1704  Bijapur  252
+1704  Esfahan  322
+1704  Hangzhou  305
+1704  Istanbul  694
+1704  Kyoto  350
+1704  London  560
+1704  Mashhad  227
+1704  Osaka  383
+1704  Paris  524
+1704  Tokyo  691
+    
+12    
+1705  Ahmedabad  357
+1705  Beijing  675
+1705  Bijapur  250
+1705  Esfahan  315
+1705  Hangzhou  306
+1705  Istanbul  693
+1705  Kyoto  350
+1705  London  563
+1705  Mashhad  229
+1705  Osaka  383
+1705  Paris  523
+1705  Tokyo  691
+    
+12    
+1706  Ahmedabad  351
+1706  Beijing  680
+1706  Bijapur  249
+1706  Esfahan  308
+1706  Hangzhou  307
+1706  Istanbul  691
+1706  Kyoto  350
+1706  London  565
+1706  Mashhad  232
+1706  Osaka  384
+1706  Paris  521
+1706  Tokyo  692
+    
+12    
+1707  Ahmedabad  345
+1707  Beijing  685
+1707  Bijapur  247
+1707  Esfahan  301
+1707  Hangzhou  307
+1707  Istanbul  690
+1707  Kyoto  350
+1707  London  568
+1707  Mashhad  234
+1707  Osaka  385
+1707  Paris  520
+1707  Tokyo  692
+    
+12    
+1708  Ahmedabad  340
+1708  Beijing  690
+1708  Bijapur  246
+1708  Esfahan  295
+1708  Hangzhou  308
+1708  Istanbul  688
+1708  Kyoto  350
+1708  London  570
+1708  Mashhad  236
+1708  Osaka  385
+1708  Paris  518
+1708  Tokyo  693
+    
+12    
+1709  Ahmedabad  334
+1709  Beijing  695
+1709  Bijapur  244
+1709  Esfahan  288
+1709  Hangzhou  309
+1709  Istanbul  687
+1709  Kyoto  350
+1709  London  573
+1709  Mashhad  238
+1709  Osaka  386
+1709  Paris  517
+1709  Tokyo  693
+    
+12    
+1710  Ahmedabad  328
+1710  Beijing  700
+1710  Bijapur  242
+1710  Esfahan  281
+1710  Guangzhou  240
+1710  Hangzhou  309
+1710  Istanbul  685
+1710  Kyoto  350
+1710  London  575
+1710  Osaka  387
+1710  Paris  515
+1710  Tokyo  694
+    
+12    
+1711  Ahmedabad  323
+1711  Beijing  705
+1711  Esfahan  274
+1711  Guangzhou  244
+1711  Hangzhou  310
+1711  Istanbul  684
+1711  Kyoto  350
+1711  London  578
+1711  Mashhad  242
+1711  Osaka  387
+1711  Paris  514
+1711  Tokyo  695
+    
+12    
+1712  Ahmedabad  317
+1712  Beijing  710
+1712  Esfahan  267
+1712  Guangzhou  248
+1712  Hangzhou  310
+1712  Istanbul  682
+1712  Kyoto  350
+1712  London  580
+1712  Mashhad  244
+1712  Osaka  388
+1712  Paris  513
+1712  Tokyo  695
+    
+12    
+1713  Ahmedabad  311
+1713  Beijing  715
+1713  Esfahan  260
+1713  Guangzhou  252
+1713  Hangzhou  311
+1713  Istanbul  681
+1713  Kyoto  350
+1713  London  583
+1713  Mashhad  246
+1713  Osaka  389
+1713  Paris  511
+1713  Tokyo  696
+    
+12    
+1714  Ahmedabad  305
+1714  Beijing  720
+1714  Esfahan  253
+1714  Guangzhou  256
+1714  Hangzhou  312
+1714  Istanbul  679
+1714  Kyoto  350
+1714  London  585
+1714  Mashhad  248
+1714  Osaka  389
+1714  Paris  510
+1714  Tokyo  696
+    
+12    
+1715  Ahmedabad  300
+1715  Beijing  725
+1715  Esfahan  246
+1715  Guangzhou  260
+1715  Hangzhou  312
+1715  Istanbul  678
+1715  Kyoto  350
+1715  London  588
+1715  Mashhad  250
+1715  Osaka  390
+1715  Paris  511
+1715  Tokyo  697
+    
+12    
+1716  Ahmedabad  294
+1716  Beijing  730
+1716  Guangzhou  264
+1716  Hangzhou  313
+1716  Istanbul  676
+1716  Kyoto  350
+1716  London  590
+1716  Mashhad  252
+1716  Naples  242
+1716  Osaka  391
+1716  Paris  512
+1716  Tokyo  697
+    
+12    
+1717  Ahmedabad  288
+1717  Beijing  735
+1717  Guangzhou  268
+1717  Hangzhou  314
+1717  Istanbul  675
+1717  Kyoto  351
+1717  London  593
+1717  Mashhad  254
+1717  Naples  244
+1717  Osaka  391
+1717  Paris  513
+1717  Tokyo  698
+    
+12    
+1718  Ahmedabad  283
+1718  Beijing  740
+1718  Guangzhou  272
+1718  Hangzhou  314
+1718  Istanbul  673
+1718  Kyoto  351
+1718  London  595
+1718  Mashhad  256
+1718  Naples  247
+1718  Osaka  392
+1718  Paris  515
+1718  Tokyo  698
+    
+12    
+1719  Ahmedabad  277
+1719  Beijing  745
+1719  Guangzhou  276
+1719  Hangzhou  315
+1719  Istanbul  672
+1719  Kyoto  351
+1719  London  598
+1719  Mashhad  259
+1719  Naples  249
+1719  Osaka  393
+1719  Paris  516
+1719  Tokyo  699
+    
+12    
+1720  Ahmedabad  271
+1720  Beijing  750
+1720  Guangzhou  280
+1720  Hangzhou  315
+1720  Istanbul  670
+1720  Kyoto  352
+1720  London  600
+1720  Mashhad  261
+1720  Naples  252
+1720  Osaka  393
+1720  Paris  517
+1720  Tokyo  699
+    
+12    
+1721  Ahmedabad  266
+1721  Beijing  755
+1721  Guangzhou  284
+1721  Hangzhou  316
+1721  Istanbul  669
+1721  Kyoto  352
+1721  London  603
+1721  Mashhad  263
+1721  Naples  254
+1721  Osaka  394
+1721  Paris  519
+1721  Tokyo  700
+    
+12    
+1722  Ahmedabad  260
+1722  Beijing  760
+1722  Guangzhou  288
+1722  Hangzhou  317
+1722  Istanbul  667
+1722  Kyoto  352
+1722  London  605
+1722  Mashhad  265
+1722  Naples  256
+1722  Osaka  395
+1722  Paris  520
+1722  Tokyo  700
+    
+12    
+1723  Ahmedabad  254
+1723  Beijing  765
+1723  Guangzhou  292
+1723  Hangzhou  317
+1723  Istanbul  666
+1723  Kyoto  353
+1723  London  608
+1723  Mashhad  267
+1723  Naples  259
+1723  Osaka  395
+1723  Paris  521
+1723  Tokyo  700
+    
+12    
+1724  Ahmedabad  249
+1724  Beijing  770
+1724  Guangzhou  296
+1724  Hangzhou  318
+1724  Istanbul  664
+1724  Kyoto  353
+1724  London  610
+1724  Mashhad  269
+1724  Naples  261
+1724  Osaka  396
+1724  Paris  522
+1724  Tokyo  699
+    
+12    
+1725  Ahmedabad  243
+1725  Beijing  775
+1725  Guangzhou  300
+1725  Hangzhou  319
+1725  Istanbul  663
+1725  Kyoto  353
+1725  London  613
+1725  Mashhad  271
+1725  Naples  264
+1725  Osaka  397
+1725  Paris  524
+1725  Tokyo  699
+    
+12    
+1726  Ahmedabad  237
+1726  Beijing  780
+1726  Guangzhou  304
+1726  Hangzhou  319
+1726  Istanbul  661
+1726  Kyoto  354
+1726  London  616
+1726  Mashhad  273
+1726  Naples  266
+1726  Osaka  397
+1726  Paris  525
+1726  Tokyo  699
+    
+12    
+1727  Ahmedabad  232
+1727  Beijing  785
+1727  Guangzhou  308
+1727  Hangzhou  320
+1727  Istanbul  660
+1727  Kyoto  354
+1727  London  618
+1727  Mashhad  275
+1727  Naples  269
+1727  Osaka  398
+1727  Paris  526
+1727  Tokyo  699
+    
+12    
+1728  Ahmedabad  226
+1728  Beijing  790
+1728  Guangzhou  312
+1728  Hangzhou  320
+1728  Istanbul  658
+1728  Kyoto  354
+1728  London  621
+1728  Mashhad  277
+1728  Naples  271
+1728  Osaka  398
+1728  Paris  527
+1728  Tokyo  699
+    
+12    
+1729  Ahmedabad  220
+1729  Beijing  795
+1729  Guangzhou  316
+1729  Hangzhou  321
+1729  Istanbul  657
+1729  Kyoto  355
+1729  London  623
+1729  Mashhad  279
+1729  Naples  273
+1729  Osaka  399
+1729  Paris  529
+1729  Tokyo  698
+    
+12    
+1730  Amsterdam  215
+1730  Beijing  800
+1730  Guangzhou  320
+1730  Hangzhou  322
+1730  Istanbul  655
+1730  Kyoto  355
+1730  London  626
+1730  Mashhad  281
+1730  Naples  276
+1730  Osaka  400
+1730  Paris  530
+1730  Tokyo  698
+    
+12    
+1731  Amsterdam  216
+1731  Beijing  805
+1731  Guangzhou  324
+1731  Hangzhou  322
+1731  Istanbul  654
+1731  Kyoto  355
+1731  London  628
+1731  Mashhad  283
+1731  Naples  278
+1731  Osaka  400
+1731  Paris  531
+1731  Tokyo  698
+    
+12    
+1732  Amsterdam  216
+1732  Beijing  810
+1732  Guangzhou  328
+1732  Hangzhou  323
+1732  Istanbul  652
+1732  Kyoto  356
+1732  London  631
+1732  Mashhad  285
+1732  Naples  281
+1732  Osaka  401
+1732  Paris  533
+1732  Tokyo  698
+    
+12    
+1733  Amsterdam  216
+1733  Beijing  815
+1733  Guangzhou  332
+1733  Hangzhou  324
+1733  Istanbul  651
+1733  Kyoto  356
+1733  London  633
+1733  Mashhad  288
+1733  Naples  283
+1733  Osaka  402
+1733  Paris  534
+1733  Tokyo  698
+    
+12    
+1734  Amsterdam  216
+1734  Beijing  820
+1734  Guangzhou  336
+1734  Hangzhou  325
+1734  Istanbul  649
+1734  Kyoto  357
+1734  London  636
+1734  Mashhad  290
+1734  Naples  286
+1734  Osaka  402
+1734  Paris  535
+1734  Tokyo  697
+    
+12    
+1735  Amsterdam  216
+1735  Beijing  825
+1735  Guangzhou  340
+1735  Hangzhou  326
+1735  Istanbul  648
+1735  Kyoto  357
+1735  London  638
+1735  Mashhad  292
+1735  Naples  288
+1735  Osaka  403
+1735  Paris  536
+1735  Tokyo  697
+    
+12    
+1736  Amsterdam  216
+1736  Beijing  830
+1736  Guangzhou  344
+1736  Hangzhou  327
+1736  Istanbul  646
+1736  Kyoto  357
+1736  London  641
+1736  Mashhad  294
+1736  Naples  290
+1736  Osaka  404
+1736  Paris  538
+1736  Tokyo  697
+    
+12    
+1737  Amsterdam  217
+1737  Beijing  835
+1737  Guangzhou  348
+1737  Hangzhou  328
+1737  Istanbul  645
+1737  Kyoto  358
+1737  London  643
+1737  Mashhad  296
+1737  Naples  293
+1737  Osaka  404
+1737  Paris  539
+1737  Tokyo  697
+    
+12    
+1738  Amsterdam  217
+1738  Beijing  840
+1738  Guangzhou  352
+1738  Hangzhou  329
+1738  Istanbul  643
+1738  Kyoto  358
+1738  London  646
+1738  Mashhad  298
+1738  Naples  295
+1738  Osaka  405
+1738  Paris  540
+1738  Tokyo  696
+    
+12    
+1739  Amsterdam  217
+1739  Beijing  845
+1739  Guangzhou  356
+1739  Hangzhou  330
+1739  Istanbul  642
+1739  Kyoto  358
+1739  London  648
+1739  Mashhad  300
+1739  Naples  298
+1739  Osaka  406
+1739  Paris  542
+1739  Tokyo  696
+    
+12    
+1740  Amsterdam  217
+1740  Beijing  850
+1740  Guangzhou  360
+1740  Hangzhou  331
+1740  Istanbul  640
+1740  Kyoto  359
+1740  London  651
+1740  Mashhad  294
+1740  Naples  300
+1740  Osaka  406
+1740  Paris  543
+1740  Tokyo  696
+    
+12    
+1741  Amsterdam  217
+1741  Beijing  855
+1741  Guangzhou  364
+1741  Hangzhou  332
+1741  Istanbul  639
+1741  Kyoto  359
+1741  London  653
+1741  Mashhad  288
+1741  Naples  303
+1741  Osaka  407
+1741  Paris  544
+1741  Tokyo  696
+    
+12    
+1742  Amsterdam  218
+1742  Beijing  860
+1742  Guangzhou  368
+1742  Hangzhou  333
+1742  Istanbul  637
+1742  Kyoto  359
+1742  London  656
+1742  Mashhad  281
+1742  Naples  305
+1742  Osaka  408
+1742  Paris  545
+1742  Tokyo  696
+    
+12    
+1743  Amsterdam  218
+1743  Beijing  865
+1743  Guangzhou  372
+1743  Hangzhou  333
+1743  Istanbul  636
+1743  Kyoto  360
+1743  London  658
+1743  Mashhad  275
+1743  Naples  306
+1743  Osaka  408
+1743  Paris  547
+1743  Tokyo  695
+    
+12    
+1744  Amsterdam  218
+1744  Beijing  870
+1744  Guangzhou  376
+1744  Hangzhou  334
+1744  Istanbul  634
+1744  Kyoto  360
+1744  London  661
+1744  Mashhad  269
+1744  Naples  306
+1744  Osaka  409
+1744  Paris  548
+1744  Tokyo  695
+    
+12    
+1745  Amsterdam  218
+1745  Beijing  875
+1745  Guangzhou  380
+1745  Hangzhou  335
+1745  Istanbul  633
+1745  Kyoto  360
+1745  London  663
+1745  Mashhad  263
+1745  Naples  307
+1745  Osaka  410
+1745  Paris  549
+1745  Tokyo  695
+    
+12    
+1746  Amsterdam  218
+1746  Beijing  880
+1746  Guangzhou  384
+1746  Hangzhou  336
+1746  Istanbul  631
+1746  Kyoto  361
+1746  London  666
+1746  Mashhad  256
+1746  Naples  308
+1746  Osaka  410
+1746  Paris  550
+1746  Tokyo  695
+    
+12    
+1747  Amsterdam  218
+1747  Beijing  885
+1747  Guangzhou  388
+1747  Hangzhou  337
+1747  Istanbul  630
+1747  Kyoto  361
+1747  London  668
+1747  Mashhad  250
+1747  Naples  308
+1747  Osaka  411
+1747  Paris  552
+1747  Tokyo  695
+    
+12    
+1748  Amsterdam  219
+1748  Beijing  890
+1748  Guangzhou  392
+1748  Hangzhou  338
+1748  Istanbul  628
+1748  Kyoto  361
+1748  London  671
+1748  Mashhad  233
+1748  Naples  309
+1748  Osaka  412
+1748  Paris  553
+1748  Tokyo  694
+    
+12    
+1749  Amsterdam  219
+1749  Beijing  895
+1749  Guangzhou  396
+1749  Hangzhou  339
+1749  Istanbul  627
+1749  Kyoto  362
+1749  London  673
+1749  Mashhad  217
+1749  Naples  309
+1749  Osaka  412
+1749  Paris  555
+1749  Tokyo  694
+    
+12    
+1750  Amsterdam  219
+1750  Beijing  900
+1750  Guangzhou  400
+1750  Hangzhou  340
+1750  Istanbul  625
+1750  Kyoto  362
+1750  Lisbon  213
+1750  London  676
+1750  Naples  310
+1750  Osaka  413
+1750  Paris  556
+1750  Tokyo  694
+    
+12    
+1751  Amsterdam  219
+1751  Beijing  904
+1751  Guangzhou  408
+1751  Hangzhou  341
+1751  Istanbul  624
+1751  Kyoto  362
+1751  Lisbon  212
+1751  London  680
+1751  Naples  311
+1751  Osaka  412
+1751  Paris  559
+1751  Tokyo  694
+    
+12    
+1752  Amsterdam  219
+1752  Beijing  908
+1752  Guangzhou  416
+1752  Hangzhou  342
+1752  Istanbul  622
+1752  Kyoto  363
+1752  Lisbon  212
+1752  London  683
+1752  Naples  312
+1752  Osaka  412
+1752  Paris  563
+1752  Tokyo  694
+    
+12    
+1753  Amsterdam  219
+1753  Beijing  912
+1753  Guangzhou  424
+1753  Hangzhou  343
+1753  Istanbul  621
+1753  Kyoto  363
+1753  Lisbon  211
+1753  London  687
+1753  Naples  312
+1753  Osaka  411
+1753  Paris  566
+1753  Tokyo  693
+    
+12    
+1754  Amsterdam  219
+1754  Beijing  916
+1754  Guangzhou  432
+1754  Hangzhou  344
+1754  Istanbul  619
+1754  Kyoto  363
+1754  Lisbon  211
+1754  London  691
+1754  Naples  313
+1754  Osaka  411
+1754  Paris  570
+1754  Tokyo  693
+    
+12    
+1755  Amsterdam  219
+1755  Beijing  920
+1755  Guangzhou  440
+1755  Hangzhou  345
+1755  Istanbul  618
+1755  Kyoto  364
+1755  Lisbon  210
+1755  London  695
+1755  Naples  314
+1755  Osaka  410
+1755  Paris  573
+1755  Tokyo  693
+    
+12    
+1756  Amsterdam  219
+1756  Beijing  924
+1756  Guangzhou  448
+1756  Hangzhou  346
+1756  Istanbul  616
+1756  Kyoto  364
+1756  Lisbon  209
+1756  London  698
+1756  Naples  315
+1756  Osaka  409
+1756  Paris  577
+1756  Tokyo  693
+    
+12    
+1757  Amsterdam  219
+1757  Beijing  928
+1757  Guangzhou  456
+1757  Hangzhou  347
+1757  Istanbul  615
+1757  Kyoto  365
+1757  Lisbon  209
+1757  London  702
+1757  Naples  316
+1757  Osaka  409
+1757  Paris  578
+1757  Tokyo  693
+    
+12    
+1758  Amsterdam  219
+1758  Beijing  932
+1758  Guangzhou  464
+1758  Hangzhou  348
+1758  Istanbul  613
+1758  Kyoto  365
+1758  Lisbon  208
+1758  London  706
+1758  Naples  316
+1758  Osaka  408
+1758  Paris  579
+1758  Tokyo  693
+    
+12    
+1759  Amsterdam  219
+1759  Beijing  936
+1759  Guangzhou  472
+1759  Hangzhou  348
+1759  Istanbul  612
+1759  Kyoto  365
+1759  Lisbon  209
+1759  London  709
+1759  Naples  317
+1759  Osaka  408
+1759  Paris  580
+1759  Tokyo  692
+    
+12    
+1760  Amsterdam  219
+1760  Beijing  940
+1760  Guangzhou  480
+1760  Hangzhou  349
+1760  Istanbul  610
+1760  Kyoto  366
+1760  Lisbon  209
+1760  London  713
+1760  Naples  318
+1760  Osaka  407
+1760  Paris  582
+1760  Tokyo  692
+    
+12    
+1761  Amsterdam  219
+1761  Beijing  944
+1761  Guangzhou  488
+1761  Hangzhou  350
+1761  Istanbul  609
+1761  Kyoto  366
+1761  Lisbon  210
+1761  London  717
+1761  Naples  319
+1761  Osaka  406
+1761  Paris  583
+1761  Tokyo  692
+    
+12    
+1762  Amsterdam  218
+1762  Beijing  948
+1762  Guangzhou  496
+1762  Hangzhou  351
+1762  Istanbul  607
+1762  Kyoto  366
+1762  Lisbon  211
+1762  London  720
+1762  Naples  320
+1762  Osaka  406
+1762  Paris  584
+1762  Tokyo  692
+    
+12    
+1763  Amsterdam  218
+1763  Beijing  952
+1763  Guangzhou  504
+1763  Hangzhou  352
+1763  Istanbul  606
+1763  Kyoto  367
+1763  Lisbon  211
+1763  London  724
+1763  Naples  320
+1763  Osaka  405
+1763  Paris  585
+1763  Tokyo  692
+    
+12    
+1764  Amsterdam  218
+1764  Beijing  956
+1764  Guangzhou  512
+1764  Hangzhou  353
+1764  Istanbul  604
+1764  Kyoto  367
+1764  Lisbon  212
+1764  London  728
+1764  Naples  321
+1764  Osaka  405
+1764  Paris  587
+1764  Tokyo  691
+    
+12    
+1765  Amsterdam  218
+1765  Beijing  960
+1765  Guangzhou  520
+1765  Hangzhou  354
+1765  Istanbul  603
+1765  Kyoto  367
+1765  Lisbon  213
+1765  London  732
+1765  Naples  322
+1765  Osaka  404
+1765  Paris  588
+1765  Tokyo  691
+    
+12    
+1766  Amsterdam  218
+1766  Beijing  964
+1766  Guangzhou  528
+1766  Hangzhou  355
+1766  Istanbul  601
+1766  Kyoto  368
+1766  Lisbon  214
+1766  London  735
+1766  Naples  323
+1766  Osaka  403
+1766  Paris  589
+1766  Tokyo  691
+    
+12    
+1767  Amsterdam  218
+1767  Beijing  968
+1767  Guangzhou  536
+1767  Hangzhou  356
+1767  Istanbul  600
+1767  Kyoto  368
+1767  Lisbon  214
+1767  London  739
+1767  Naples  327
+1767  Osaka  403
+1767  Paris  591
+1767  Tokyo  691
+    
+12    
+1768  Amsterdam  218
+1768  Beijing  972
+1768  Guangzhou  544
+1768  Hangzhou  357
+1768  Istanbul  598
+1768  Kyoto  368
+1768  Lisbon  215
+1768  London  743
+1768  Naples  330
+1768  Osaka  402
+1768  Paris  592
+1768  Tokyo  691
+    
+12    
+1769  Amsterdam  218
+1769  Beijing  976
+1769  Guangzhou  552
+1769  Hangzhou  358
+1769  Istanbul  597
+1769  Kyoto  369
+1769  Lisbon  216
+1769  London  746
+1769  Naples  334
+1769  Osaka  402
+1769  Paris  593
+1769  Tokyo  690
+    
+12    
+1770  Amsterdam  218
+1770  Beijing  980
+1770  Guangzhou  560
+1770  Hangzhou  359
+1770  Istanbul  595
+1770  Kyoto  369
+1770  Lisbon  216
+1770  London  750
+1770  Naples  338
+1770  Osaka  401
+1770  Paris  594
+1770  Tokyo  690
+    
+12    
+1771  Amsterdam  218
+1771  Beijing  984
+1771  Guangzhou  568
+1771  Hangzhou  360
+1771  Istanbul  594
+1771  Kyoto  370
+1771  Lisbon  217
+1771  London  754
+1771  Naples  341
+1771  Osaka  400
+1771  Paris  596
+1771  Tokyo  690
+    
+12    
+1772  Amsterdam  218
+1772  Beijing  988
+1772  Guangzhou  576
+1772  Hangzhou  361
+1772  Istanbul  593
+1772  Kyoto  370
+1772  Lisbon  218
+1772  London  757
+1772  Naples  345
+1772  Osaka  400
+1772  Paris  597
+1772  Tokyo  690
+    
+12    
+1773  Amsterdam  218
+1773  Beijing  992
+1773  Guangzhou  584
+1773  Hangzhou  362
+1773  Istanbul  591
+1773  Kyoto  370
+1773  Lisbon  218
+1773  London  761
+1773  Naples  349
+1773  Osaka  399
+1773  Paris  598
+1773  Tokyo  690
+    
+12    
+1774  Amsterdam  218
+1774  Beijing  996
+1774  Guangzhou  592
+1774  Hangzhou  363
+1774  Istanbul  590
+1774  Kyoto  371
+1774  Lisbon  219
+1774  London  765
+1774  Naples  353
+1774  Osaka  399
+1774  Paris  599
+1774  Tokyo  690
+    
+12    
+1775  Amsterdam  218
+1775  Beijing  1000
+1775  Guangzhou  600
+1775  Hangzhou  364
+1775  Istanbul  588
+1775  Kyoto  371
+1775  Lisbon  220
+1775  London  769
+1775  Naples  356
+1775  Osaka  398
+1775  Paris  601
+1775  Tokyo  689
+    
+12    
+1776  Amsterdam  218
+1776  Beijing  1004
+1776  Guangzhou  608
+1776  Hangzhou  364
+1776  Istanbul  587
+1776  Kyoto  371
+1776  Lisbon  220
+1776  London  772
+1776  Naples  360
+1776  Osaka  397
+1776  Paris  598
+1776  Tokyo  689
+    
+12    
+1777  Amsterdam  218
+1777  Beijing  1008
+1777  Guangzhou  616
+1777  Hangzhou  365
+1777  Istanbul  585
+1777  Kyoto  372
+1777  Lisbon  221
+1777  London  776
+1777  Naples  364
+1777  Osaka  397
+1777  Paris  596
+1777  Tokyo  689
+    
+12    
+1778  Amsterdam  218
+1778  Beijing  1012
+1778  Guangzhou  624
+1778  Hangzhou  366
+1778  Istanbul  584
+1778  Kyoto  372
+1778  Lisbon  222
+1778  London  780
+1778  Naples  367
+1778  Osaka  396
+1778  Paris  594
+1778  Tokyo  689
+    
+12    
+1779  Amsterdam  218
+1779  Beijing  1016
+1779  Guangzhou  632
+1779  Hangzhou  367
+1779  Istanbul  582
+1779  Kyoto  372
+1779  Lisbon  223
+1779  London  783
+1779  Naples  371
+1779  Osaka  396
+1779  Paris  592
+1779  Tokyo  689
+    
+12    
+1780  Amsterdam  218
+1780  Beijing  1020
+1780  Guangzhou  640
+1780  Hangzhou  368
+1780  Istanbul  581
+1780  Kyoto  373
+1780  Lisbon  223
+1780  London  787
+1780  Naples  375
+1780  Osaka  395
+1780  Paris  590
+1780  Tokyo  688
+    
+12    
+1781  Amsterdam  218
+1781  Beijing  1024
+1781  Guangzhou  648
+1781  Hangzhou  369
+1781  Istanbul  579
+1781  Kyoto  373
+1781  Lisbon  224
+1781  London  791
+1781  Naples  379
+1781  Osaka  394
+1781  Paris  588
+1781  Tokyo  688
+    
+12    
+1782  Beijing  1028
+1782  Guangzhou  656
+1782  Hangzhou  370
+1782  Istanbul  578
+1782  Kyoto  374
+1782  Lisbon  225
+1782  London  794
+1782  Naples  382
+1782  Osaka  394
+1782  Paris  586
+1782  Suzhou  218
+1782  Tokyo  688
+    
+12    
+1783  Beijing  1032
+1783  Guangzhou  664
+1783  Hangzhou  371
+1783  Istanbul  576
+1783  Kyoto  374
+1783  Lisbon  225
+1783  London  798
+1783  Naples  386
+1783  Osaka  393
+1783  Paris  583
+1783  Suzhou  219
+1783  Tokyo  688
+    
+12    
+1784  Beijing  1036
+1784  Guangzhou  672
+1784  Hangzhou  372
+1784  Istanbul  575
+1784  Kyoto  374
+1784  Lisbon  226
+1784  London  802
+1784  Naples  390
+1784  Osaka  393
+1784  Paris  581
+1784  Suzhou  221
+1784  Tokyo  688
+    
+12    
+1785  Beijing  1040
+1785  Guangzhou  680
+1785  Hangzhou  373
+1785  Istanbul  573
+1785  Kyoto  375
+1785  Lisbon  227
+1785  London  806
+1785  Naples  393
+1785  Osaka  392
+1785  Paris  579
+1785  Suzhou  222
+1785  Tokyo  687
+    
+12    
+1786  Beijing  1044
+1786  Guangzhou  688
+1786  Hangzhou  374
+1786  Istanbul  572
+1786  Kyoto  375
+1786  Lisbon  227
+1786  London  809
+1786  Naples  397
+1786  Osaka  391
+1786  Paris  577
+1786  Suzhou  223
+1786  Tokyo  687
+    
+12    
+1787  Beijing  1048
+1787  Guangzhou  696
+1787  Hangzhou  375
+1787  Istanbul  570
+1787  Kyoto  375
+1787  Lisbon  228
+1787  London  813
+1787  Naples  401
+1787  Osaka  391
+1787  Paris  575
+1787  Suzhou  225
+1787  Tokyo  687
+    
+12    
+1788  Beijing  1052
+1788  Guangzhou  704
+1788  Hangzhou  376
+1788  Istanbul  569
+1788  Kyoto  376
+1788  Lisbon  229
+1788  London  817
+1788  Naples  405
+1788  Osaka  390
+1788  Paris  573
+1788  Suzhou  226
+1788  Tokyo  687
+    
+12    
+1789  Beijing  1056
+1789  Guangzhou  712
+1789  Hangzhou  377
+1789  Istanbul  567
+1789  Kyoto  376
+1789  Lisbon  229
+1789  London  820
+1789  Naples  408
+1789  Osaka  390
+1789  Paris  571
+1789  Suzhou  228
+1789  Tokyo  687
+    
+12    
+1790  Beijing  1060
+1790  Guangzhou  720
+1790  Hangzhou  378
+1790  Istanbul  566
+1790  Kyoto  376
+1790  Lisbon  230
+1790  London  824
+1790  Naples  412
+1790  Osaka  389
+1790  Paris  568
+1790  Suzhou  229
+1790  Tokyo  687
+    
+12    
+1791  Beijing  1064
+1791  Guangzhou  728
+1791  Hangzhou  379
+1791  Istanbul  564
+1791  Kyoto  377
+1791  Lisbon  231
+1791  London  828
+1791  Moscow  231
+1791  Naples  416
+1791  Osaka  388
+1791  Paris  566
+1791  Tokyo  686
+    
+12    
+1792  Beijing  1068
+1792  Guangzhou  736
+1792  Hangzhou  379
+1792  Istanbul  563
+1792  Kyoto  377
+1792  London  831
+1792  Moscow  232
+1792  Naples  419
+1792  Osaka  388
+1792  Paris  564
+1792  Suzhou  232
+1792  Tokyo  686
+    
+12    
+1793  Beijing  1072
+1793  Guangzhou  744
+1793  Hangzhou  380
+1793  Istanbul  561
+1793  Kyoto  377
+1793  London  835
+1793  Moscow  234
+1793  Naples  423
+1793  Osaka  387
+1793  Paris  562
+1793  Suzhou  233
+1793  Tokyo  686
+    
+12    
+1794  Beijing  1076
+1794  Guangzhou  752
+1794  Hangzhou  381
+1794  Istanbul  560
+1794  Kyoto  378
+1794  London  839
+1794  Moscow  236
+1794  Naples  427
+1794  Osaka  387
+1794  Paris  560
+1794  Suzhou  235
+1794  Tokyo  686
+    
+12    
+1795  Beijing  1080
+1795  Guangzhou  760
+1795  Hangzhou  382
+1795  Istanbul  562
+1795  Kyoto  378
+1795  London  843
+1795  Moscow  238
+1795  Naples  431
+1795  Osaka  386
+1795  Paris  558
+1795  Suzhou  236
+1795  Tokyo  686
+    
+12    
+1796  Beijing  1084
+1796  Guangzhou  768
+1796  Hangzhou  383
+1796  Istanbul  563
+1796  Kyoto  379
+1796  London  846
+1796  Moscow  240
+1796  Naples  434
+1796  Osaka  385
+1796  Paris  556
+1796  Suzhou  237
+1796  Tokyo  685
+    
+12    
+1797  Beijing  1088
+1797  Guangzhou  776
+1797  Hangzhou  384
+1797  Istanbul  565
+1797  Kyoto  379
+1797  London  850
+1797  Moscow  242
+1797  Naples  438
+1797  Osaka  385
+1797  Paris  553
+1797  Suzhou  239
+1797  Tokyo  685
+    
+12    
+1798  Beijing  1092
+1798  Guangzhou  784
+1798  Hangzhou  385
+1798  Istanbul  567
+1798  Kyoto  379
+1798  London  854
+1798  Moscow  244
+1798  Naples  435
+1798  Osaka  384
+1798  Paris  551
+1798  Suzhou  240
+1798  Tokyo  685
+    
+12    
+1799  Beijing  1096
+1799  Guangzhou  792
+1799  Hangzhou  386
+1799  Istanbul  568
+1799  Kyoto  378
+1799  London  857
+1799  Moscow  246
+1799  Naples  433
+1799  Osaka  384
+1799  Paris  549
+1799  Suzhou  242
+1799  Tokyo  685
+    
+12    
+1800  Beijing  1100
+1800  Guangzhou  800
+1800  Hangzhou  387
+1800  Istanbul  570
+1800  Kyoto  377
+1800  London  861
+1800  Moscow  248
+1800  Naples  430
+1800  Osaka  383
+1800  Paris  547
+1800  Suzhou  243
+1800  Tokyo  685
+    
+12    
+1801  Beijing  1110
+1801  Guangzhou  804
+1801  Hangzhou  388
+1801  Istanbul  572
+1801  Kyoto  376
+1801  London  865
+1801  Moscow  250
+1801  Naples  426
+1801  Osaka  382
+1801  Paris  548
+1801  Suzhou  244
+1801  Tokyo  685
+    
+12    
+1802  Beijing  1119
+1802  Guangzhou  808
+1802  Hangzhou  389
+1802  Istanbul  574
+1802  Kyoto  375
+1802  London  884
+1802  Lucknow  248
+1802  Moscow  252
+1802  Naples  423
+1802  Osaka  380
+1802  Paris  561
+1802  Tokyo  685
+    
+12    
+1803  Beijing  1129
+1803  Guangzhou  812
+1803  Hangzhou  390
+1803  Istanbul  576
+1803  Kyoto  374
+1803  London  904
+1803  Lucknow  252
+1803  Moscow  254
+1803  Naples  420
+1803  Osaka  379
+1803  Paris  573
+1803  Tokyo  685
+    
+12    
+1804  Beijing  1138
+1804  Guangzhou  816
+1804  Hangzhou  391
+1804  Istanbul  577
+1804  Kyoto  373
+1804  London  924
+1804  Lucknow  256
+1804  Moscow  256
+1804  Naples  417
+1804  Osaka  378
+1804  Paris  586
+1804  Tokyo  685
+    
+12    
+1805  Beijing  1148
+1805  Guangzhou  820
+1805  Hangzhou  392
+1805  Istanbul  579
+1805  Kyoto  372
+1805  London  943
+1805  Lucknow  260
+1805  Naples  414
+1805  Osaka  376
+1805  Paris  599
+1805  Saint-Petersburg  264
+1805  Tokyo  687
+    
+12    
+1806  Beijing  1157
+1806  Guangzhou  824
+1806  Hangzhou  393
+1806  Istanbul  581
+1806  Kyoto  371
+1806  London  963
+1806  Lucknow  264
+1806  Naples  410
+1806  Osaka  375
+1806  Paris  612
+1806  Saint-Petersburg  272
+1806  Tokyo  689
+    
+12    
+1807  Beijing  1167
+1807  Guangzhou  828
+1807  Hangzhou  393
+1807  Istanbul  583
+1807  Kyoto  369
+1807  London  982
+1807  Lucknow  268
+1807  Naples  407
+1807  Osaka  374
+1807  Paris  625
+1807  Saint-Petersburg  281
+1807  Tokyo  692
+    
+12    
+1808  Beijing  1176
+1808  Guangzhou  832
+1808  Hangzhou  394
+1808  Istanbul  585
+1808  Kyoto  368
+1808  London  1002
+1808  Lucknow  272
+1808  Naples  404
+1808  Osaka  372
+1808  Paris  637
+1808  Saint-Petersburg  290
+1808  Tokyo  694
+    
+12    
+1809  Beijing  1186
+1809  Guangzhou  836
+1809  Hangzhou  395
+1809  Istanbul  587
+1809  Kyoto  367
+1809  London  1022
+1809  Lucknow  276
+1809  Naples  401
+1809  Osaka  371
+1809  Paris  650
+1809  Saint-Petersburg  299
+1809  Tokyo  696
+    
+12    
+1810  Beijing  1195
+1810  Guangzhou  840
+1810  Hangzhou  396
+1810  Istanbul  588
+1810  Kyoto  366
+1810  London  1041
+1810  Lucknow  280
+1810  Naples  398
+1810  Osaka  370
+1810  Paris  663
+1810  Saint-Petersburg  307
+1810  Tokyo  698
+    
+12    
+1811  Beijing  1205
+1811  Guangzhou  844
+1811  Hangzhou  397
+1811  Istanbul  590
+1811  Kyoto  365
+1811  London  1061
+1811  Lucknow  284
+1811  Naples  395
+1811  Osaka  368
+1811  Paris  676
+1811  Saint-Petersburg  316
+1811  Tokyo  701
+    
+12    
+1812  Beijing  1214
+1812  Guangzhou  848
+1812  Hangzhou  398
+1812  Istanbul  592
+1812  Kyoto  364
+1812  London  1080
+1812  Lucknow  288
+1812  Naples  391
+1812  Osaka  367
+1812  Paris  689
+1812  Saint-Petersburg  325
+1812  Tokyo  703
+    
+12    
+1813  Beijing  1224
+1813  Guangzhou  852
+1813  Hangzhou  399
+1813  Istanbul  594
+1813  Kyoto  363
+1813  London  1100
+1813  Lucknow  292
+1813  Naples  388
+1813  Osaka  366
+1813  Paris  701
+1813  Saint-Petersburg  333
+1813  Tokyo  705
+    
+12    
+1814  Beijing  1233
+1814  Guangzhou  856
+1814  Hangzhou  400
+1814  Istanbul  596
+1814  Kyoto  362
+1814  London  1120
+1814  Lucknow  296
+1814  Naples  385
+1814  Osaka  365
+1814  Paris  714
+1814  Saint-Petersburg  342
+1814  Tokyo  707
+    
+12    
+1815  Beijing  1243
+1815  Guangzhou  860
+1815  Hangzhou  401
+1815  Istanbul  598
+1815  Kyoto  361
+1815  London  1139
+1815  Lucknow  300
+1815  Naples  382
+1815  Osaka  363
+1815  Paris  727
+1815  Saint-Petersburg  351
+1815  Tokyo  710
+    
+12    
+1816  Beijing  1252
+1816  Guangzhou  864
+1816  Hangzhou  402
+1816  Istanbul  605
+1816  Kyoto  360
+1816  London  1159
+1816  Lucknow  300
+1816  Naples  379
+1816  Osaka  362
+1816  Paris  740
+1816  Saint-Petersburg  360
+1816  Tokyo  712
+    
+12    
+1817  Beijing  1262
+1817  Guangzhou  868
+1817  Hangzhou  403
+1817  Istanbul  613
+1817  Kyoto  359
+1817  London  1178
+1817  Lucknow  300
+1817  Naples  375
+1817  Osaka  361
+1817  Paris  753
+1817  Saint-Petersburg  368
+1817  Tokyo  714
+    
+12    
+1818  Beijing  1271
+1818  Guangzhou  872
+1818  Hangzhou  404
+1818  Istanbul  621
+1818  Kyoto  358
+1818  London  1198
+1818  Lucknow  300
+1818  Naples  372
+1818  Osaka  359
+1818  Paris  765
+1818  Saint-Petersburg  377
+1818  Tokyo  716
+    
+12    
+1819  Beijing  1281
+1819  Guangzhou  876
+1819  Hangzhou  404
+1819  Istanbul  629
+1819  Kyoto  356
+1819  London  1217
+1819  Lucknow  300
+1819  Naples  369
+1819  Osaka  358
+1819  Paris  778
+1819  Saint-Petersburg  386
+1819  Tokyo  719
+    
+12    
+1820  Beijing  1290
+1820  Guangzhou  880
+1820  Hangzhou  405
+1820  Istanbul  636
+1820  Kyoto  355
+1820  London  1237
+1820  Lucknow  300
+1820  Naples  366
+1820  Osaka  357
+1820  Paris  791
+1820  Saint-Petersburg  394
+1820  Tokyo  721
+    
+12    
+1821  Beijing  1300
+1821  Guangzhou  884
+1821  Hangzhou  406
+1821  Istanbul  644
+1821  Kyoto  354
+1821  London  1257
+1821  Lucknow  300
+1821  Naples  363
+1821  Osaka  355
+1821  Paris  804
+1821  Saint-Petersburg  403
+1821  Tokyo  723
+    
+12    
+1822  Beijing  1313
+1822  Guangzhou  888
+1822  Hangzhou  407
+1822  Istanbul  652
+1822  Kyoto  353
+1822  London  1276
+1822  Lucknow  300
+1822  Naples  360
+1822  Osaka  354
+1822  Paris  817
+1822  Saint-Petersburg  412
+1822  Tokyo  725
+    
+12    
+1823  Beijing  1325
+1823  Guangzhou  892
+1823  Hangzhou  408
+1823  Istanbul  660
+1823  Kyoto  352
+1823  London  1296
+1823  Lucknow  300
+1823  Naples  356
+1823  Osaka  353
+1823  Paris  829
+1823  Saint-Petersburg  421
+1823  Tokyo  728
+    
+12    
+1824  Beijing  1338
+1824  Guangzhou  896
+1824  Hangzhou  409
+1824  Istanbul  667
+1824  Kyoto  351
+1824  London  1315
+1824  Lucknow  300
+1824  Naples  353
+1824  Osaka  351
+1824  Paris  842
+1824  Saint-Petersburg  429
+1824  Tokyo  730
+    
+12    
+1825  Beijing  1350
+1825  Guangzhou  900
+1825  Hangzhou  410
+1825  Istanbul  675
+1825  Kyoto  350
+1825  London  1335
+1825  Naples  350
+1825  Osaka  350
+1825  Paris  855
+1825  Saint-Petersburg  438
+1825  Suzhou  302
+1825  Tokyo  732
+    
+12    
+1826  Beijing  1365
+1826  Guangzhou  900
+1826  Hangzhou  411
+1826  Istanbul  680
+1826  Kyoto  349
+1826  London  1373
+1826  Naples  353
+1826  Osaka  349
+1826  Paris  875
+1826  Saint-Petersburg  440
+1826  Suzhou  305
+1826  Tokyo  734
+    
+12    
+1827  Beijing  1380
+1827  Guangzhou  900
+1827  Hangzhou  412
+1827  Istanbul  685
+1827  Kyoto  349
+1827  London  1412
+1827  Naples  355
+1827  Osaka  348
+1827  Paris  895
+1827  Saint-Petersburg  441
+1827  Suzhou  308
+1827  Tokyo  736
+    
+12    
+1828  Beijing  1395
+1828  Guangzhou  900
+1828  Hangzhou  413
+1828  Istanbul  690
+1828  Kyoto  348
+1828  London  1450
+1828  Naples  358
+1828  Osaka  346
+1828  Paris  914
+1828  Saint-Petersburg  443
+1828  Suzhou  311
+1828  Tokyo  738
+    
+12    
+1829  Beijing  1410
+1829  Guangzhou  900
+1829  Hangzhou  414
+1829  Istanbul  695
+1829  Kyoto  348
+1829  London  1488
+1829  Naples  360
+1829  Osaka  345
+1829  Paris  934
+1829  Saint-Petersburg  444
+1829  Suzhou  314
+1829  Tokyo  740
+    
+12    
+1830  Beijing  1425
+1830  Guangzhou  900
+1830  Hangzhou  415
+1830  Istanbul  700
+1830  Kyoto  347
+1830  London  1527
+1830  Naples  363
+1830  Osaka  344
+1830  Paris  954
+1830  Saint-Petersburg  446
+1830  Suzhou  317
+1830  Tokyo  742
+    
+12    
+1831  Beijing  1439
+1831  Guangzhou  900
+1831  Hangzhou  416
+1831  Istanbul  704
+1831  Kyoto  347
+1831  London  1565
+1831  Naples  365
+1831  Osaka  343
+1831  Paris  974
+1831  Saint-Petersburg  447
+1831  Tokyo  744
+1831  Vienna  321
+    
+12    
+1832  Beijing  1454
+1832  Guangzhou  900
+1832  Hangzhou  417
+1832  Istanbul  709
+1832  Kyoto  346
+1832  London  1603
+1832  Naples  368
+1832  Osaka  342
+1832  Paris  993
+1832  Saint-Petersburg  449
+1832  Tokyo  746
+1832  Vienna  327
+    
+12    
+1833  Beijing  1469
+1833  Guangzhou  900
+1833  Hangzhou  418
+1833  Istanbul  713
+1833  Kyoto  345
+1833  London  1642
+1833  Naples  370
+1833  Osaka  340
+1833  Paris  1013
+1833  Saint-Petersburg  450
+1833  Tokyo  748
+1833  Vienna  332
+    
+12    
+1834  Beijing  1484
+1834  Guangzhou  900
+1834  Hangzhou  419
+1834  Istanbul  717
+1834  Kyoto  345
+1834  London  1680
+1834  Naples  373
+1834  New-York  341
+1834  Osaka  339
+1834  Paris  1033
+1834  Saint-Petersburg  452
+1834  Tokyo  750
+    
+12    
+1835  Beijing  1499
+1835  Guangzhou  900
+1835  Hangzhou  420
+1835  Istanbul  722
+1835  Kyoto  344
+1835  London  1718
+1835  Naples  375
+1835  New-York  360
+1835  Paris  1053
+1835  Saint-Petersburg  453
+1835  Tokyo  751
+1835  Vienna  343
+    
+12    
+1836  Beijing  1514
+1836  Guangzhou  883
+1836  Hangzhou  421
+1836  Istanbul  726
+1836  Kyoto  344
+1836  London  1757
+1836  Naples  378
+1836  New-York  379
+1836  Paris  1072
+1836  Saint-Petersburg  455
+1836  Tokyo  753
+1836  Vienna  349
+    
+12    
+1837  Beijing  1529
+1837  Guangzhou  867
+1837  Hangzhou  422
+1837  Istanbul  730
+1837  London  1795
+1837  Mumbai  355
+1837  Naples  380
+1837  New-York  398
+1837  Paris  1092
+1837  Saint-Petersburg  456
+1837  Tokyo  755
+1837  Vienna  354
+    
+12    
+1838  Beijing  1544
+1838  Guangzhou  850
+1838  Hangzhou  422
+1838  Istanbul  735
+1838  London  1833
+1838  Mumbai  373
+1838  Naples  383
+1838  New-York  417
+1838  Paris  1112
+1838  Saint-Petersburg  458
+1838  Tokyo  757
+1838  Vienna  360
+    
+12    
+1839  Beijing  1559
+1839  Guangzhou  852
+1839  Hangzhou  423
+1839  Istanbul  739
+1839  London  1872
+1839  Mumbai  390
+1839  Naples  386
+1839  New-York  436
+1839  Paris  1132
+1839  Saint-Petersburg  460
+1839  Tokyo  759
+1839  Vienna  366
+    
+12    
+1840  Beijing  1574
+1840  Guangzhou  854
+1840  Hangzhou  424
+1840  Istanbul  743
+1840  London  1910
+1840  Mumbai  408
+1840  Naples  388
+1840  New-York  456
+1840  Paris  1151
+1840  Saint-Petersburg  461
+1840  Tokyo  761
+1840  Vienna  371
+    
+12    
+1841  Beijing  1588
+1841  Guangzhou  856
+1841  Hangzhou  425
+1841  Istanbul  748
+1841  London  1948
+1841  Mumbai  426
+1841  Naples  391
+1841  New-York  475
+1841  Paris  1171
+1841  Saint-Petersburg  463
+1841  Tokyo  763
+1841  Vienna  377
+    
+12    
+1842  Beijing  1603
+1842  Guangzhou  858
+1842  Hangzhou  426
+1842  Istanbul  752
+1842  London  1990
+1842  Mumbai  443
+1842  Naples  393
+1842  New-York  494
+1842  Paris  1191
+1842  Saint-Petersburg  464
+1842  Tokyo  765
+1842  Vienna  382
+    
+12    
+1843  Beijing  1618
+1843  Guangzhou  860
+1843  Hangzhou  427
+1843  Istanbul  756
+1843  London  2031
+1843  Mumbai  461
+1843  Naples  396
+1843  New-York  513
+1843  Paris  1211
+1843  Saint-Petersburg  466
+1843  Tokyo  767
+1843  Vienna  388
+    
+12    
+1844  Beijing  1633
+1844  Guangzhou  863
+1844  Hangzhou  428
+1844  Istanbul  761
+1844  London  2072
+1844  Mumbai  478
+1844  Naples  398
+1844  New-York  532
+1844  Paris  1230
+1844  Saint-Petersburg  467
+1844  Tokyo  769
+1844  Vienna  393
+    
+12    
+1845  Beijing  1648
+1845  Berlin  401
+1845  Guangzhou  865
+1845  Hangzhou  429
+1845  Istanbul  765
+1845  London  2114
+1845  Mumbai  496
+1845  Naples  401
+1845  New-York  551
+1845  Paris  1250
+1845  Saint-Petersburg  469
+1845  Tokyo  771
+    
+12    
+1846  Beijing  1648
+1846  Berlin  410
+1846  Guangzhou  867
+1846  Hangzhou  430
+1846  Istanbul  769
+1846  London  2155
+1846  Mumbai  513
+1846  New-York  570
+1846  Paris  1270
+1846  Saint-Petersburg  470
+1846  Tokyo  773
+1846  Vienna  404
+    
+12    
+1847  Beijing  1648
+1847  Berlin  419
+1847  Guangzhou  869
+1847  Hangzhou  431
+1847  Istanbul  774
+1847  London  2196
+1847  Mumbai  531
+1847  New-York  589
+1847  Paris  1281
+1847  Saint-Petersburg  472
+1847  Tokyo  775
+1847  Vienna  410
+    
+12    
+1848  Beijing  1648
+1848  Berlin  428
+1848  Guangzhou  871
+1848  Hangzhou  432
+1848  Istanbul  778
+1848  London  2237
+1848  Mumbai  549
+1848  New-York  608
+1848  Paris  1292
+1848  Saint-Petersburg  473
+1848  Tokyo  776
+1848  Vienna  415
+    
+12    
+1849  Beijing  1648
+1849  Berlin  437
+1849  Guangzhou  873
+1849  Hangzhou  433
+1849  Istanbul  782
+1849  London  2279
+1849  Mumbai  566
+1849  New-York  627
+1849  Paris  1303
+1849  Saint-Petersburg  488
+1849  Tokyo  778
+1849  Vienna  421
+    
+12    
+1850  Beijing  1648
+1850  Berlin  446
+1850  Guangzhou  875
+1850  Hangzhou  434
+1850  Istanbul  785
+1850  London  2320
+1850  Mumbai  580
+1850  New-York  646
+1850  Paris  1314
+1850  Saint-Petersburg  502
+1850  Tokyo  780
+1850  Vienna  426
+    
+12    
+1851  Beijing  1617
+1851  Berlin  470
+1851  Guangzhou  873
+1851  Istanbul  789
+1851  London  2362
+1851  Mumbai  597
+1851  New-York  696
+1851  Paris  1325
+1851  Philadelphia  441
+1851  Saint-Petersburg  517
+1851  Tokyo  782
+1851  Vienna  450
+    
+12    
+1852  Beijing  1587
+1852  Berlin  494
+1852  Guangzhou  871
+1852  Istanbul  792
+1852  London  2441
+1852  Mumbai  614
+1852  New-York  746
+1852  Paris  1364
+1852  Philadelphia  455
+1852  Saint-Petersburg  532
+1852  Tokyo  784
+1852  Vienna  474
+    
+12    
+1853  Beijing  1556
+1853  Berlin  518
+1853  Guangzhou  869
+1853  Istanbul  796
+1853  London  2519
+1853  Mumbai  631
+1853  New-York  796
+1853  Paris  1402
+1853  Philadelphia  470
+1853  Saint-Petersburg  542
+1853  Tokyo  786
+1853  Vienna  498
+    
+12    
+1854  Beijing  1525
+1854  Berlin  542
+1854  Guangzhou  867
+1854  Istanbul  799
+1854  London  2597
+1854  Mumbai  648
+1854  New-York  847
+1854  Paris  1441
+1854  Philadelphia  485
+1854  Saint-Petersburg  552
+1854  Tokyo  788
+1854  Vienna  521
+    
+12    
+1855  Beijing  1494
+1855  Berlin  566
+1855  Guangzhou  865
+1855  Istanbul  803
+1855  London  2675
+1855  Mumbai  664
+1855  New-York  897
+1855  Paris  1479
+1855  Philadelphia  499
+1855  Saint-Petersburg  562
+1855  Tokyo  788
+1855  Vienna  545
+    
+12    
+1856  Beijing  1464
+1856  Berlin  590
+1856  Guangzhou  863
+1856  Istanbul  806
+1856  London  2754
+1856  Mumbai  681
+1856  New-York  947
+1856  Paris  1518
+1856  Philadelphia  514
+1856  Saint-Petersburg  573
+1856  Tokyo  787
+1856  Vienna  569
+    
+12    
+1857  Beijing  1433
+1857  Berlin  614
+1857  Guangzhou  862
+1857  Istanbul  810
+1857  London  2832
+1857  Mumbai  698
+1857  New-York  997
+1857  Paris  1556
+1857  Philadelphia  528
+1857  Saint-Petersburg  583
+1857  Tokyo  787
+1857  Vienna  593
+    
+12    
+1858  Beijing  1402
+1858  Berlin  638
+1858  Guangzhou  860
+1858  Istanbul  813
+1858  London  2910
+1858  Mumbai  715
+1858  New-York  1047
+1858  Paris  1595
+1858  Philadelphia  543
+1858  Saint-Petersburg  593
+1858  Tokyo  787
+1858  Vienna  616
+    
+12    
+1859  Beijing  1371
+1859  Berlin  662
+1859  Guangzhou  858
+1859  Istanbul  817
+1859  London  2988
+1859  Mumbai  732
+1859  New-York  1097
+1859  Paris  1633
+1859  Philadelphia  558
+1859  Saint-Petersburg  603
+1859  Tokyo  786
+1859  Vienna  640
+    
+12    
+1860  Beijing  1341
+1860  Berlin  686
+1860  Guangzhou  856
+1860  Istanbul  820
+1860  London  3067
+1860  Mumbai  749
+1860  New-York  1148
+1860  Paris  1672
+1860  Philadelphia  572
+1860  Saint-Petersburg  613
+1860  Tokyo  786
+1860  Vienna  664
+    
+12    
+1861  Beijing  1310
+1861  Berlin  710
+1861  Guangzhou  854
+1861  Istanbul  824
+1861  London  3145
+1861  Mumbai  766
+1861  New-York  1198
+1861  Paris  1710
+1861  Philadelphia  587
+1861  Saint-Petersburg  623
+1861  Tokyo  786
+1861  Vienna  688
+    
+12    
+1862  Beijing  1281
+1862  Berlin  734
+1862  Guangzhou  852
+1862  Istanbul  827
+1862  London  3223
+1862  Mumbai  783
+1862  New-York  1248
+1862  Paris  1749
+1862  Philadelphia  601
+1862  Saint-Petersburg  633
+1862  Tokyo  785
+1862  Vienna  711
+    
+12    
+1863  Beijing  1251
+1863  Berlin  757
+1863  Guangzhou  850
+1863  Istanbul  831
+1863  London  3302
+1863  Mumbai  800
+1863  New-York  1298
+1863  Paris  1788
+1863  Philadelphia  616
+1863  Saint-Petersburg  643
+1863  Tokyo  785
+1863  Vienna  735
+    
+12    
+1864  Beijing  1222
+1864  Berlin  781
+1864  Guangzhou  835
+1864  Istanbul  834
+1864  London  3380
+1864  Mumbai  817
+1864  New-York  1348
+1864  Paris  1826
+1864  Philadelphia  630
+1864  Saint-Petersburg  653
+1864  Tokyo  784
+1864  Vienna  759
+    
+12    
+1865  Beijing  1193
+1865  Berlin  805
+1865  Guangzhou  820
+1865  Istanbul  838
+1865  London  3458
+1865  Mumbai  808
+1865  New-York  1398
+1865  Paris  1865
+1865  Philadelphia  645
+1865  Saint-Petersburg  663
+1865  Tokyo  784
+1865  Vienna  783
+    
+12    
+1866  Beijing  1164
+1866  Berlin  829
+1866  Guangzhou  805
+1866  Istanbul  841
+1866  London  3536
+1866  Mumbai  799
+1866  New-York  1449
+1866  Paris  1903
+1866  Philadelphia  660
+1866  Saint-Petersburg  673
+1866  Tokyo  784
+1866  Vienna  806
+    
+12    
+1867  Beijing  1134
+1867  Berlin  853
+1867  Guangzhou  790
+1867  Istanbul  845
+1867  London  3615
+1867  Mumbai  790
+1867  New-York  1499
+1867  Paris  1942
+1867  Philadelphia  674
+1867  Saint-Petersburg  683
+1867  Tokyo  783
+1867  Vienna  830
+    
+12    
+1868  Beijing  1105
+1868  Berlin  877
+1868  Guangzhou  775
+1868  Istanbul  848
+1868  London  3693
+1868  Mumbai  781
+1868  New-York  1549
+1868  Paris  1980
+1868  Philadelphia  689
+1868  Saint-Petersburg  693
+1868  Tokyo  783
+1868  Vienna  854
+    
+12    
+1869  Beijing  1076
+1869  Berlin  901
+1869  Guangzhou  760
+1869  Istanbul  852
+1869  London  3771
+1869  Mumbai  772
+1869  New-York  1599
+1869  Paris  2019
+1869  Philadelphia  703
+1869  Saint-Petersburg  704
+1869  Tokyo  783
+1869  Vienna  878
+    
+12    
+1870  Beijing  1046
+1870  Berlin  925
+1870  Guangzhou  745
+1870  Istanbul  855
+1870  London  3850
+1870  Mumbai  763
+1870  New-York  1649
+1870  Paris  2057
+1870  Philadelphia  718
+1870  Saint-Petersburg  714
+1870  Tokyo  782
+1870  Vienna  901
+    
+12    
+1871  Beijing  1017
+1871  Berlin  949
+1871  Guangzhou  730
+1871  Istanbul  859
+1871  London  3928
+1871  Mumbai  754
+1871  New-York  1699
+1871  Paris  2096
+1871  Philadelphia  733
+1871  Saint-Petersburg  724
+1871  Tokyo  782
+1871  Vienna  925
+    
+12    
+1872  Beijing  988
+1872  Berlin  973
+1872  Guangzhou  715
+1872  Istanbul  862
+1872  London  4006
+1872  Mumbai  745
+1872  New-York  1750
+1872  Paris  2134
+1872  Philadelphia  747
+1872  Saint-Petersburg  734
+1872  Tokyo  782
+1872  Vienna  949
+    
+12    
+1873  Beijing  959
+1873  Berlin  997
+1873  Guangzhou  700
+1873  Istanbul  866
+1873  London  4084
+1873  Mumbai  736
+1873  New-York  1800
+1873  Paris  2173
+1873  Philadelphia  762
+1873  Saint-Petersburg  744
+1873  Tokyo  781
+1873  Vienna  973
+    
+12    
+1874  Beijing  929
+1874  Berlin  1021
+1874  Guangzhou  685
+1874  Istanbul  869
+1874  London  4163
+1874  Mumbai  727
+1874  New-York  1850
+1874  Paris  2211
+1874  Philadelphia  776
+1874  Saint-Petersburg  754
+1874  Tokyo  781
+1874  Vienna  996
+    
+12    
+1875  Beijing  900
+1875  Berlin  1045
+1875  Istanbul  873
+1875  Kolkata  680
+1875  London  4241
+1875  Mumbai  718
+1875  New-York  1900
+1875  Paris  2250
+1875  Philadelphia  791
+1875  Saint-Petersburg  764
+1875  Tokyo  781
+1875  Vienna  1020
+    
+12    
+1876  Beijing  908
+1876  Berlin  1111
+1876  Istanbul  873
+1876  Kolkata  696
+1876  London  4331
+1876  Mumbai  720
+1876  New-York  1994
+1876  Paris  2293
+1876  Philadelphia  816
+1876  Saint-Petersburg  791
+1876  Tokyo  809
+1876  Vienna  1047
+    
+12    
+1877  Beijing  916
+1877  Berlin  1178
+1877  Istanbul  873
+1877  Kolkata  712
+1877  London  4420
+1877  Mumbai  723
+1877  New-York  2087
+1877  Paris  2336
+1877  Philadelphia  841
+1877  Saint-Petersburg  818
+1877  Tokyo  838
+1877  Vienna  1074
+    
+12    
+1878  Beijing  924
+1878  Berlin  1244
+1878  Istanbul  873
+1878  Kolkata  729
+1878  London  4510
+1878  Mumbai  725
+1878  New-York  2181
+1878  Paris  2380
+1878  Philadelphia  866
+1878  Saint-Petersburg  845
+1878  Tokyo  867
+1878  Vienna  1101
+    
+12    
+1879  Beijing  932
+1879  Berlin  1311
+1879  Istanbul  873
+1879  Kolkata  745
+1879  London  4599
+1879  Mumbai  728
+1879  New-York  2275
+1879  Paris  2423
+1879  Philadelphia  891
+1879  Saint-Petersburg  872
+1879  Tokyo  895
+1879  Vienna  1128
+    
+12    
+1880  Beijing  940
+1880  Berlin  1377
+1880  Istanbul  873
+1880  Kolkata  761
+1880  London  4689
+1880  Manchester  759
+1880  New-York  2368
+1880  Paris  2466
+1880  Philadelphia  916
+1880  Saint-Petersburg  899
+1880  Tokyo  924
+1880  Vienna  1156
+    
+12    
+1881  Beijing  948
+1881  Berlin  1444
+1881  Istanbul  873
+1881  Kolkata  777
+1881  London  4778
+1881  Manchester  793
+1881  New-York  2462
+1881  Paris  2509
+1881  Philadelphia  941
+1881  Saint-Petersburg  926
+1881  Tokyo  953
+1881  Vienna  1183
+    
+12    
+1882  Beijing  956
+1882  Berlin  1510
+1882  Istanbul  873
+1882  Kolkata  793
+1882  London  4868
+1882  Manchester  827
+1882  New-York  2556
+1882  Paris  2552
+1882  Philadelphia  967
+1882  Saint-Petersburg  953
+1882  Tokyo  981
+1882  Vienna  1210
+    
+12    
+1883  Beijing  964
+1883  Berlin  1577
+1883  Chicago  825
+1883  Istanbul  873
+1883  London  4957
+1883  Manchester  860
+1883  New-York  2649
+1883  Paris  2596
+1883  Philadelphia  992
+1883  Saint-Petersburg  980
+1883  Tokyo  1010
+1883  Vienna  1237
+    
+12    
+1884  Beijing  972
+1884  Berlin  1643
+1884  Chicago  877
+1884  Istanbul  874
+1884  London  5047
+1884  Manchester  894
+1884  New-York  2743
+1884  Paris  2639
+1884  Philadelphia  1017
+1884  Saint-Petersburg  1007
+1884  Tokyo  1039
+1884  Vienna  1264
+    
+12    
+1885  Beijing  980
+1885  Berlin  1710
+1885  Chicago  930
+1885  Istanbul  874
+1885  London  5137
+1885  Manchester  928
+1885  New-York  2837
+1885  Paris  2682
+1885  Philadelphia  1042
+1885  Saint-Petersburg  1034
+1885  Tokyo  1067
+1885  Vienna  1291
+    
+12    
+1886  Beijing  988
+1886  Berlin  1776
+1886  Chicago  982
+1886  Istanbul  875
+1886  London  5226
+1886  Manchester  962
+1886  New-York  2930
+1886  Paris  2725
+1886  Philadelphia  1067
+1886  Saint-Petersburg  1061
+1886  Tokyo  1096
+1886  Vienna  1318
+    
+12    
+1887  Beijing  996
+1887  Berlin  1843
+1887  Chicago  1035
+1887  Istanbul  877
+1887  London  5316
+1887  Manchester  996
+1887  New-York  3024
+1887  Paris  2768
+1887  Philadelphia  1092
+1887  Saint-Petersburg  1088
+1887  Tokyo  1124
+1887  Vienna  1345
+    
+12    
+1888  Beijing  1004
+1888  Berlin  1909
+1888  Chicago  1087
+1888  Kolkata  891
+1888  London  5405
+1888  Manchester  1029
+1888  New-York  3118
+1888  Paris  2812
+1888  Philadelphia  1117
+1888  Saint-Petersburg  1115
+1888  Tokyo  1153
+1888  Vienna  1373
+    
+12    
+1889  Beijing  1012
+1889  Berlin  1976
+1889  Birmingham  910
+1889  Chicago  1140
+1889  London  5495
+1889  Manchester  1063
+1889  New-York  3212
+1889  Paris  2855
+1889  Philadelphia  1142
+1889  Saint-Petersburg  1142
+1889  Tokyo  1182
+1889  Vienna  1400
+    
+12    
+1890  Beijing  1020
+1890  Berlin  2042
+1890  Birmingham  941
+1890  Chicago  1192
+1890  London  5584
+1890  Manchester  1097
+1890  New-York  3305
+1890  Paris  2898
+1890  Philadelphia  1167
+1890  Saint-Petersburg  1169
+1890  Tokyo  1210
+1890  Vienna  1427
+    
+12    
+1891  Beijing  1028
+1891  Berlin  2109
+1891  Birmingham  972
+1891  Chicago  1245
+1891  London  5674
+1891  Manchester  1131
+1891  New-York  3399
+1891  Paris  2941
+1891  Philadelphia  1192
+1891  Saint-Petersburg  1196
+1891  Tokyo  1239
+1891  Vienna  1454
+    
+12    
+1892  Beijing  1036
+1892  Berlin  2175
+1892  Birmingham  1002
+1892  Chicago  1297
+1892  London  5764
+1892  Manchester  1165
+1892  New-York  3493
+1892  Paris  2984
+1892  Philadelphia  1217
+1892  Saint-Petersburg  1223
+1892  Tokyo  1268
+1892  Vienna  1481
+    
+12    
+1893  Beijing  1044
+1893  Berlin  2242
+1893  Birmingham  1033
+1893  Chicago  1350
+1893  London  5853
+1893  Manchester  1198
+1893  New-York  3586
+1893  Paris  3028
+1893  Philadelphia  1242
+1893  Saint-Petersburg  1250
+1893  Tokyo  1296
+1893  Vienna  1508
+    
+12    
+1894  Beijing  1052
+1894  Berlin  2308
+1894  Birmingham  1064
+1894  Chicago  1402
+1894  London  5943
+1894  Manchester  1232
+1894  New-York  3680
+1894  Paris  3071
+1894  Philadelphia  1268
+1894  Saint-Petersburg  1277
+1894  Tokyo  1325
+1894  Vienna  1535
+    
+12    
+1895  Beijing  1060
+1895  Berlin  2375
+1895  Birmingham  1094
+1895  Chicago  1455
+1895  London  6032
+1895  Manchester  1266
+1895  New-York  3774
+1895  Paris  3114
+1895  Philadelphia  1293
+1895  Saint-Petersburg  1304
+1895  Tokyo  1354
+1895  Vienna  1562
+    
+12    
+1896  Beijing  1068
+1896  Berlin  2441
+1896  Birmingham  1125
+1896  Chicago  1507
+1896  London  6122
+1896  Manchester  1300
+1896  New-York  3867
+1896  Paris  3157
+1896  Philadelphia  1318
+1896  Saint-Petersburg  1331
+1896  Tokyo  1382
+1896  Vienna  1590
+    
+12    
+1897  Beijing  1076
+1897  Berlin  2508
+1897  Birmingham  1156
+1897  Chicago  1560
+1897  London  6211
+1897  Manchester  1334
+1897  New-York  3961
+1897  Paris  3200
+1897  Philadelphia  1343
+1897  Saint-Petersburg  1358
+1897  Tokyo  1411
+1897  Vienna  1617
+    
+12    
+1898  Beijing  1084
+1898  Berlin  2574
+1898  Birmingham  1187
+1898  Chicago  1612
+1898  London  6301
+1898  Manchester  1367
+1898  New-York  4055
+1898  Paris  3244
+1898  Philadelphia  1368
+1898  Saint-Petersburg  1385
+1898  Tokyo  1440
+1898  Vienna  1644
+    
+12    
+1899  Berlin  2641
+1899  Birmingham  1217
+1899  Chicago  1665
+1899  London  6390
+1899  Manchester  1401
+1899  Moscow  1099
+1899  New-York  4148
+1899  Paris  3287
+1899  Philadelphia  1393
+1899  Saint-Petersburg  1412
+1899  Tokyo  1468
+1899  Vienna  1671
+    
+12    
+1900  Berlin  2707
+1900  Birmingham  1248
+1900  Chicago  1717
+1900  London  6480
+1900  Manchester  1435
+1900  Moscow  1120
+1900  New-York  4242
+1900  Paris  3330
+1900  Philadelphia  1418
+1900  Saint-Petersburg  1439
+1900  Tokyo  1497
+1900  Vienna  1698
+    
+12    
+1901  Berlin  2764
+1901  Birmingham  1266
+1901  Chicago  1767
+1901  London  6547
+1901  Manchester  1447
+1901  Moscow  1169
+1901  New-York  4418
+1901  Paris  3378
+1901  Philadelphia  1442
+1901  Saint-Petersburg  1439
+1901  Tokyo  1640
+1901  Vienna  1705
+    
+12    
+1902  Berlin  2820
+1902  Birmingham  1284
+1902  Chicago  1817
+1902  London  6614
+1902  Manchester  1459
+1902  Moscow  1218
+1902  New-York  4593
+1902  Paris  3426
+1902  Philadelphia  1467
+1902  Saint-Petersburg  1438
+1902  Tokyo  1783
+1902  Vienna  1711
+    
+12    
+1903  Berlin  2877
+1903  Birmingham  1302
+1903  Chicago  1868
+1903  London  6681
+1903  Manchester  1470
+1903  Moscow  1267
+1903  New-York  4769
+1903  Paris  3474
+1903  Philadelphia  1491
+1903  Saint-Petersburg  1438
+1903  Tokyo  1926
+1903  Vienna  1718
+    
+12    
+1904  Berlin  2934
+1904  Birmingham  1320
+1904  Chicago  1918
+1904  London  6748
+1904  Manchester  1482
+1904  Moscow  1316
+1904  New-York  4944
+1904  Paris  3521
+1904  Philadelphia  1516
+1904  Saint-Petersburg  1438
+1904  Tokyo  2069
+1904  Vienna  1725
+    
+12    
+1905  Berlin  2990
+1905  Birmingham  1338
+1905  Chicago  1968
+1905  London  6815
+1905  Manchester  1494
+1905  Moscow  1365
+1905  New-York  5120
+1905  Paris  3569
+1905  Philadelphia  1540
+1905  Saint-Petersburg  1437
+1905  Tokyo  2212
+1905  Vienna  1731
+    
+12    
+1906  Berlin  3047
+1906  Birmingham  1356
+1906  Chicago  2018
+1906  London  6882
+1906  Manchester  1506
+1906  Moscow  1414
+1906  New-York  5295
+1906  Paris  3617
+1906  Philadelphia  1565
+1906  Saint-Petersburg  1437
+1906  Tokyo  2355
+1906  Vienna  1738
+    
+12    
+1907  Berlin  3104
+1907  Birmingham  1374
+1907  Chicago  2069
+1907  London  6950
+1907  Manchester  1518
+1907  Moscow  1463
+1907  New-York  5471
+1907  Paris  3665
+1907  Philadelphia  1589
+1907  Saint-Petersburg  1436
+1907  Tokyo  2499
+1907  Vienna  1745
+    
+12    
+1908  Berlin  3160
+1908  Birmingham  1392
+1908  Chicago  2119
+1908  London  7017
+1908  Manchester  1529
+1908  Moscow  1511
+1908  New-York  5647
+1908  Paris  3713
+1908  Philadelphia  1613
+1908  Saint-Petersburg  1436
+1908  Tokyo  2642
+1908  Vienna  1751
+    
+12    
+1909  Berlin  3217
+1909  Birmingham  1410
+1909  Chicago  2169
+1909  London  7084
+1909  Manchester  1541
+1909  Moscow  1560
+1909  New-York  5822
+1909  Paris  3761
+1909  Philadelphia  1638
+1909  Saint-Petersburg  1436
+1909  Tokyo  2785
+1909  Vienna  1758
+    
+12    
+1910  Berlin  3273
+1910  Birmingham  1428
+1910  Chicago  2219
+1910  London  7151
+1910  Manchester  1553
+1910  Moscow  1609
+1910  New-York  5998
+1910  Paris  3809
+1910  Philadelphia  1662
+1910  Saint-Petersburg  1435
+1910  Tokyo  2928
+1910  Vienna  1765
+    
+12    
+1911  Berlin  3330
+1911  Birmingham  1446
+1911  Buenos-Aires  1453
+1911  Chicago  2269
+1911  London  7218
+1911  Manchester  1565
+1911  Moscow  1658
+1911  New-York  6173
+1911  Paris  3856
+1911  Philadelphia  1687
+1911  Tokyo  3071
+1911  Vienna  1771
+    
+12    
+1912  Berlin  3387
+1912  Birmingham  1464
+1912  Buenos-Aires  1512
+1912  Chicago  2320
+1912  London  7285
+1912  Manchester  1576
+1912  Moscow  1707
+1912  New-York  6349
+1912  Paris  3904
+1912  Philadelphia  1711
+1912  Tokyo  3214
+1912  Vienna  1778
+    
+12    
+1913  Berlin  3443
+1913  Birmingham  1482
+1913  Buenos-Aires  1571
+1913  Chicago  2370
+1913  London  7352
+1913  Manchester  1588
+1913  Moscow  1756
+1913  New-York  6524
+1913  Paris  3952
+1913  Philadelphia  1736
+1913  Tokyo  3357
+1913  Vienna  1785
+    
+12    
+1914  Berlin  3500
+1914  Birmingham  1500
+1914  Buenos-Aires  1630
+1914  Chicago  2420
+1914  London  7419
+1914  Manchester  1600
+1914  Moscow  1805
+1914  New-York  6700
+1914  Paris  4000
+1914  Philadelphia  1760
+1914  Tokyo  3500
+1914  Vienna  1792
+    
+12    
+1915  Berlin  3547
+1915  Buenos-Aires  1701
+1915  Chicago  2524
+1915  London  7448
+1915  Manchester  1611
+1915  Moscow  1801
+1915  New-York  6798
+1915  Osaka  1547
+1915  Paris  4073
+1915  Philadelphia  1790
+1915  Tokyo  3664
+1915  Vienna  1798
+    
+12    
+1916  Berlin  3593
+1916  Buenos-Aires  1772
+1916  Chicago  2628
+1916  London  7478
+1916  Manchester  1623
+1916  Moscow  1798
+1916  New-York  6895
+1916  Osaka  1614
+1916  Paris  4145
+1916  Philadelphia  1819
+1916  Tokyo  3827
+1916  Vienna  1805
+    
+12    
+1917  Berlin  3640
+1917  Buenos-Aires  1843
+1917  Chicago  2732
+1917  London  7507
+1917  Manchester  1634
+1917  Moscow  1794
+1917  New-York  6993
+1917  Osaka  1682
+1917  Paris  4218
+1917  Philadelphia  1849
+1917  Tokyo  3991
+1917  Vienna  1812
+    
+12    
+1918  Berlin  3687
+1918  Buenos-Aires  1914
+1918  Chicago  2836
+1918  London  7536
+1918  Manchester  1645
+1918  Moscow  1790
+1918  New-York  7091
+1918  Osaka  1749
+1918  Paris  4291
+1918  Philadelphia  1878
+1918  Tokyo  4155
+1918  Vienna  1818
+    
+12    
+1919  Berlin  3733
+1919  Buenos-Aires  1985
+1919  Chicago  2940
+1919  London  7566
+1919  Manchester  1657
+1919  Moscow  1786
+1919  New-York  7188
+1919  Osaka  1816
+1919  Paris  4364
+1919  Philadelphia  1908
+1919  Tokyo  4318
+1919  Vienna  1825
+    
+12    
+1920  Berlin  3780
+1920  Buenos-Aires  2055
+1920  Chicago  3044
+1920  London  7595
+1920  Manchester  1668
+1920  Moscow  1783
+1920  New-York  7286
+1920  Osaka  1883
+1920  Paris  4436
+1920  Philadelphia  1937
+1920  Tokyo  4482
+1920  Vienna  1832
+    
+12    
+1921  Berlin  3826
+1921  Buenos-Aires  2126
+1921  Chicago  3148
+1921  London  7625
+1921  Manchester  1680
+1921  Moscow  1779
+1921  New-York  7383
+1921  Osaka  1950
+1921  Paris  4509
+1921  Philadelphia  1967
+1921  Tokyo  4645
+1921  Vienna  1838
+    
+12    
+1922  Berlin  3873
+1922  Buenos-Aires  2197
+1922  Chicago  3252
+1922  London  7654
+1922  Manchester  1691
+1922  Moscow  1775
+1922  New-York  7481
+1922  Osaka  2017
+1922  Paris  4582
+1922  Philadelphia  1996
+1922  Tokyo  4809
+1922  Vienna  1845
+    
+12    
+1923  Berlin  3920
+1923  Buenos-Aires  2268
+1923  Chicago  3356
+1923  London  7683
+1923  Manchester  1702
+1923  Moscow  1771
+1923  New-York  7579
+1923  Osaka  2085
+1923  Paris  4655
+1923  Philadelphia  2026
+1923  Tokyo  4973
+1923  Vienna  1852
+    
+12    
+1924  Berlin  3966
+1924  Boston  1722
+1924  Buenos-Aires  2339
+1924  Chicago  3460
+1924  London  7713
+1924  Moscow  1768
+1924  New-York  7676
+1924  Osaka  2152
+1924  Paris  4727
+1924  Philadelphia  2055
+1924  Tokyo  5136
+1924  Vienna  1858
+    
+12    
+1925  Berlin  4013
+1925  Boston  1764
+1925  Buenos-Aires  2410
+1925  Chicago  3564
+1925  London  7742
+1925  Moscow  1764
+1925  New-York  7774
+1925  Osaka  2219
+1925  Paris  4800
+1925  Philadelphia  2085
+1925  Tokyo  5300
+1925  Vienna  1865
+    
+12    
+1926  Berlin  4001
+1926  Boston  1795
+1926  Buenos-Aires  2518
+1926  Chicago  3621
+1926  London  7787
+1926  Moscow  1908
+1926  New-York  7962
+1926  Osaka  2410
+1926  Paris  4859
+1926  Philadelphia  2127
+1926  Tokyo  5539
+1926  Vienna  1861
+    
+12    
+1927  Berlin  3989
+1927  Boston  1827
+1927  Buenos-Aires  2625
+1927  Chicago  3679
+1927  London  7831
+1927  Moscow  2051
+1927  New-York  8149
+1927  Osaka  2602
+1927  Paris  4919
+1927  Philadelphia  2168
+1927  Tokyo  5778
+1927  Vienna  1856
+    
+12    
+1928  Berlin  3976
+1928  Boston  1858
+1928  Buenos-Aires  2733
+1928  Chicago  3736
+1928  London  7876
+1928  Moscow  2195
+1928  New-York  8337
+1928  Osaka  2793
+1928  Paris  4978
+1928  Philadelphia  2210
+1928  Shanghai  1969
+1928  Tokyo  6017
+    
+12    
+1929  Berlin  3964
+1929  Buenos-Aires  2840
+1929  Chicago  3794
+1929  Kolkata  1936
+1929  London  7921
+1929  Moscow  2339
+1929  New-York  8524
+1929  Osaka  2985
+1929  Paris  5037
+1929  Philadelphia  2252
+1929  Shanghai  2125
+1929  Tokyo  6256
+    
+12    
+1930  Berlin  3952
+1930  Buenos-Aires  2948
+1930  Chicago  3851
+1930  Kolkata  2072
+1930  London  7966
+1930  Moscow  2482
+1930  New-York  8712
+1930  Osaka  3176
+1930  Paris  5097
+1930  Philadelphia  2294
+1930  Shanghai  2281
+1930  Tokyo  6495
+    
+12    
+1931  Berlin  3940
+1931  Buenos-Aires  3055
+1931  Chicago  3908
+1931  Kolkata  2208
+1931  London  8010
+1931  Moscow  2626
+1931  New-York  8899
+1931  Osaka  3368
+1931  Paris  5156
+1931  Philadelphia  2335
+1931  Shanghai  2437
+1931  Tokyo  6734
+    
+12    
+1932  Berlin  3927
+1932  Buenos-Aires  3163
+1932  Chicago  3966
+1932  Kolkata  2345
+1932  London  8055
+1932  Moscow  2770
+1932  New-York  9087
+1932  Osaka  3559
+1932  Paris  5215
+1932  Philadelphia  2377
+1932  Shanghai  2594
+1932  Tokyo  6973
+    
+12    
+1933  Berlin  3915
+1933  Buenos-Aires  3270
+1933  Chicago  4023
+1933  Kolkata  2481
+1933  London  8100
+1933  Moscow  2913
+1933  New-York  9274
+1933  Osaka  3751
+1933  Paris  5275
+1933  Philadelphia  2419
+1933  Shanghai  2750
+1933  Tokyo  7212
+    
+12    
+1934  Berlin  3903
+1934  Buenos-Aires  3378
+1934  Chicago  4081
+1934  Kolkata  2618
+1934  London  8144
+1934  Moscow  3057
+1934  New-York  9462
+1934  Osaka  3942
+1934  Paris  5334
+1934  Philadelphia  2460
+1934  Shanghai  2906
+1934  Tokyo  7451
+    
+12    
+1935  Berlin  3891
+1935  Buenos-Aires  3485
+1935  Chicago  4138
+1935  Kolkata  2754
+1935  London  8189
+1935  Moscow  3201
+1935  New-York  9650
+1935  Osaka  4133
+1935  Paris  5393
+1935  Philadelphia  2502
+1935  Shanghai  3062
+1935  Tokyo  7690
+    
+12    
+1936  Berlin  3878
+1936  Buenos-Aires  3593
+1936  Chicago  4195
+1936  Kolkata  2890
+1936  London  8234
+1936  Moscow  3344
+1936  New-York  9837
+1936  Osaka  4325
+1936  Paris  5453
+1936  Philadelphia  2544
+1936  Shanghai  3219
+1936  Tokyo  7929
+    
+12    
+1937  Berlin  3866
+1937  Buenos-Aires  3700
+1937  Chicago  4253
+1937  Kolkata  3027
+1937  London  8279
+1937  Moscow  3488
+1937  New-York  10025
+1937  Osaka  4516
+1937  Paris  5512
+1937  Philadelphia  2586
+1937  Shanghai  3375
+1937  Tokyo  8168
+    
+12    
+1938  Berlin  3854
+1938  Buenos-Aires  3808
+1938  Chicago  4310
+1938  Kolkata  3163
+1938  London  8323
+1938  Los-Angeles  2654
+1938  Moscow  3632
+1938  New-York  10212
+1938  Osaka  4708
+1938  Paris  5571
+1938  Shanghai  3531
+1938  Tokyo  8407
+    
+12    
+1939  Berlin  3842
+1939  Buenos-Aires  3915
+1939  Chicago  4368
+1939  Kolkata  3300
+1939  London  8368
+1939  Los-Angeles  2770
+1939  Moscow  3776
+1939  New-York  10400
+1939  Osaka  4899
+1939  Paris  5630
+1939  Shanghai  3687
+1939  Tokyo  8646
+    
+12    
+1940  Berlin  3829
+1940  Buenos-Aires  4023
+1940  Chicago  4425
+1940  Kolkata  3436
+1940  London  8413
+1940  Los-Angeles  2886
+1940  Moscow  3919
+1940  New-York  10587
+1940  Osaka  5091
+1940  Paris  5690
+1940  Shanghai  3844
+1940  Tokyo  8885
+    
+12    
+1941  Berlin  3817
+1941  Buenos-Aires  4130
+1941  Chicago  4482
+1941  Kolkata  3572
+1941  London  8458
+1941  Los-Angeles  3002
+1941  Moscow  4063
+1941  New-York  10775
+1941  Osaka  5282
+1941  Paris  5749
+1941  Shanghai  4000
+1941  Tokyo  9124
+    
+12    
+1942  Berlin  3805
+1942  Buenos-Aires  4238
+1942  Chicago  4540
+1942  Kolkata  3709
+1942  London  8502
+1942  Los-Angeles  3118
+1942  Moscow  4207
+1942  New-York  10963
+1942  Osaka  5473
+1942  Paris  5808
+1942  Shanghai  4156
+1942  Tokyo  9363
+    
+12    
+1943  Berlin  3793
+1943  Buenos-Aires  4345
+1943  Chicago  4597
+1943  Kolkata  3845
+1943  London  8547
+1943  Los-Angeles  3234
+1943  Moscow  4350
+1943  New-York  11150
+1943  Osaka  5665
+1943  Paris  5868
+1943  Shanghai  4312
+1943  Tokyo  9602
+    
+12    
+1944  Berlin  3780
+1944  Buenos-Aires  4453
+1944  Chicago  4655
+1944  Kolkata  3982
+1944  London  8592
+1944  Los-Angeles  3350
+1944  Moscow  4494
+1944  New-York  11338
+1944  Osaka  5856
+1944  Paris  5927
+1944  Shanghai  4469
+1944  Tokyo  9841
+    
+12    
+1945  Berlin  3768
+1945  Buenos-Aires  4560
+1945  Chicago  4712
+1945  Kolkata  4118
+1945  London  8636
+1945  Los-Angeles  3466
+1945  Moscow  4638
+1945  New-York  11525
+1945  Osaka  6048
+1945  Paris  5986
+1945  Shanghai  4625
+1945  Tokyo  10080
+    
+12    
+1946  Berlin  3756
+1946  Buenos-Aires  4668
+1946  Chicago  4769
+1946  Kolkata  4254
+1946  London  8681
+1946  Los-Angeles  3582
+1946  Moscow  4781
+1946  New-York  11713
+1946  Osaka  6239
+1946  Paris  6046
+1946  Shanghai  4781
+1946  Tokyo  10319
+    
+12    
+1947  Berlin  3744
+1947  Buenos-Aires  4775
+1947  Chicago  4827
+1947  Kolkata  4391
+1947  London  8726
+1947  Los-Angeles  3698
+1947  Moscow  4925
+1947  New-York  11900
+1947  Osaka  6431
+1947  Paris  6105
+1947  Shanghai  4937
+1947  Tokyo  10558
+    
+12    
+1948  Berlin  3731
+1948  Buenos-Aires  4883
+1948  Chicago  4884
+1948  Kolkata  4527
+1948  London  8771
+1948  Los-Angeles  3814
+1948  Moscow  5069
+1948  New-York  12088
+1948  Osaka  6622
+1948  Paris  6164
+1948  Shanghai  5094
+1948  Tokyo  10797
+    
+12    
+1949  Berlin  3719
+1949  Buenos-Aires  4990
+1949  Chicago  4942
+1949  Kolkata  4664
+1949  London  8815
+1949  Los-Angeles  3930
+1949  Moscow  5212
+1949  New-York  12275
+1949  Osaka  6814
+1949  Paris  6224
+1949  Shanghai  5250
+1949  Tokyo  11036
+    
+12    
+1950  Berlin  3707
+1950  Buenos-Aires  5098
+1950  Chicago  4999
+1950  Kolkata  4800
+1950  London  8860
+1950  Los-Angeles  4046
+1950  Moscow  5356
+1950  New-York  12463
+1950  Osaka  7005
+1950  Paris  6283
+1950  Shanghai  5406
+1950  Tokyo  11275
+    
+12    
+1951  Berlin  3625
+1951  Buenos-Aires  5238
+1951  Chicago  5112
+1951  Kolkata  4851
+1951  London  8744
+1951  Los-Angeles  4268
+1951  Moscow  5435
+1951  New-York  12614
+1951  Osaka  7329
+1951  Paris  6386
+1951  Shanghai  5494
+1951  Tokyo  11763
+    
+12    
+1952  Buenos-Aires  5378
+1952  Chicago  5225
+1952  Kolkata  4902
+1952  London  8627
+1952  Los-Angeles  4489
+1952  Mexico-City  3737
+1952  Moscow  5513
+1952  New-York  12765
+1952  Osaka  7652
+1952  Paris  6488
+1952  Shanghai  5582
+1952  Tokyo  12250
+    
+12    
+1953  Buenos-Aires  5519
+1953  Chicago  5339
+1953  Kolkata  4953
+1953  London  8511
+1953  Los-Angeles  4711
+1953  Mexico-City  3922
+1953  Moscow  5592
+1953  New-York  12917
+1953  Osaka  7976
+1953  Paris  6591
+1953  Shanghai  5670
+1953  Tokyo  12738
+    
+12    
+1954  Buenos-Aires  5659
+1954  Chicago  5452
+1954  Kolkata  5004
+1954  London  8394
+1954  Los-Angeles  4932
+1954  Mexico-City  4108
+1954  Moscow  5670
+1954  New-York  13068
+1954  Osaka  8299
+1954  Paris  6693
+1954  Shanghai  5758
+1954  Tokyo  13225
+    
+12    
+1955  Buenos-Aires  5799
+1955  Chicago  5565
+1955  Kolkata  5055
+1955  London  8278
+1955  Los-Angeles  5154
+1955  Mexico-City  4294
+1955  Moscow  5749
+1955  New-York  13219
+1955  Osaka  8623
+1955  Paris  6796
+1955  Shanghai  5846
+1955  Tokyo  13713
+    
+12    
+1956  Buenos-Aires  5959
+1956  Chicago  5689
+1956  Kolkata  5174
+1956  London  8262
+1956  Los-Angeles  5429
+1956  Mexico-City  4531
+1956  Moscow  5833
+1956  New-York  13408
+1956  Osaka  9021
+1956  Paris  6919
+1956  Shanghai  6041
+1956  Tokyo  14306
+    
+12    
+1957  Buenos-Aires  6119
+1957  Chicago  5812
+1957  Kolkata  5294
+1957  London  8245
+1957  Los-Angeles  5704
+1957  Mexico-City  4768
+1957  Moscow  5917
+1957  New-York  13597
+1957  Osaka  9420
+1957  Paris  7042
+1957  Shanghai  6236
+1957  Tokyo  14899
+    
+12    
+1958  Buenos-Aires  6278
+1958  Chicago  5936
+1958  Kolkata  5413
+1958  London  8229
+1958  Los-Angeles  5980
+1958  Mexico-City  5005
+1958  Moscow  6002
+1958  New-York  13786
+1958  Osaka  9818
+1958  Paris  7165
+1958  Shanghai  6430
+1958  Tokyo  15493
+    
+12    
+1959  Buenos-Aires  6438
+1959  Chicago  6059
+1959  Kolkata  5533
+1959  London  8212
+1959  Los-Angeles  6255
+1959  Mexico-City  5242
+1959  Moscow  6086
+1959  New-York  13975
+1959  Osaka  10217
+1959  Paris  7288
+1959  Shanghai  6625
+1959  Tokyo  16086
+    
+12    
+1960  Buenos-Aires  6598
+1960  Chicago  6183
+1960  Kolkata  5652
+1960  London  8196
+1960  Los-Angeles  6530
+1960  Mexico-City  5479
+1960  Moscow  6170
+1960  New-York  14164
+1960  Osaka  10615
+1960  Paris  7411
+1960  Shanghai  6820
+1960  Tokyo  16679
+    
+12    
+1961  Buenos-Aires  6742
+1961  Chicago  6274
+1961  Kolkata  5774
+1961  London  8131
+1961  Los-Angeles  6706
+1961  Mexico-City  5777
+1961  Moscow  6260
+1961  New-York  14367
+1961  Osaka  11105
+1961  Paris  7500
+1961  Shanghai  6742
+1961  Tokyo  17400
+    
+12    
+1962  Buenos-Aires  6886
+1962  Chicago  6365
+1962  Kolkata  5896
+1962  London  8065
+1962  Los-Angeles  6881
+1962  Mexico-City  6075
+1962  Moscow  6351
+1962  New-York  14569
+1962  Osaka  11595
+1962  Paris  7589
+1962  Shanghai  6663
+1962  Tokyo  18121
+    
+12    
+1963  Buenos-Aires  7029
+1963  Chicago  6457
+1963  Kolkata  6017
+1963  London  8000
+1963  Los-Angeles  7057
+1963  Mexico-City  6373
+1963  Moscow  6441
+1963  New-York  14772
+1963  Osaka  12085
+1963  Paris  7677
+1963  Shanghai  6585
+1963  Tokyo  18842
+    
+12    
+1964  Buenos-Aires  7173
+1964  Chicago  6548
+1964  Kolkata  6139
+1964  London  7934
+1964  Los-Angeles  7232
+1964  Mexico-City  6671
+1964  Moscow  6532
+1964  New-York  14974
+1964  Osaka  12575
+1964  Paris  7766
+1964  Shanghai  6506
+1964  Tokyo  19563
+    
+12    
+1965  Buenos-Aires  7317
+1965  Chicago  6639
+1965  Kolkata  6261
+1965  London  7869
+1965  Los-Angeles  7408
+1965  Mexico-City  6969
+1965  Moscow  6622
+1965  New-York  15177
+1965  Osaka  13065
+1965  Paris  7855
+1965  Shanghai  6428
+1965  Tokyo  20284
+    
+12    
+1966  Buenos-Aires  7579
+1966  Chicago  6828
+1966  Kolkata  6394
+1966  London  7855
+1966  Los-Angeles  7669
+1966  Mexico-City  7375
+1966  Moscow  6719
+1966  New-York  15592
+1966  Osaka  13506
+1966  Paris  8059
+1966  Shanghai  6722
+1966  Tokyo  20887
+    
+12    
+1967  Buenos-Aires  7840
+1967  Chicago  7017
+1967  Kolkata  6527
+1967  London  7841
+1967  Los-Angeles  7930
+1967  Mexico-City  7781
+1967  Moscow  6816
+1967  New-York  16007
+1967  Osaka  13948
+1967  Paris  8263
+1967  Shanghai  7017
+1967  Tokyo  21490
+    
+12    
+1968  Buenos-Aires  8102
+1968  Chicago  7207
+1968  London  7827
+1968  Los-Angeles  8190
+1968  Mexico-City  8188
+1968  Moscow  6912
+1968  New-York  16422
+1968  Osaka  14389
+1968  Paris  8467
+1968  Shanghai  7311
+1968  São-Paulo  6770
+1968  Tokyo  22092
+    
+12    
+1969  Buenos-Aires  8363
+1969  Chicago  7396
+1969  London  7813
+1969  Los-Angeles  8451
+1969  Mexico-City  8594
+1969  Moscow  7009
+1969  New-York  16837
+1969  Osaka  14831
+1969  Paris  8671
+1969  Shanghai  7606
+1969  São-Paulo  7195
+1969  Tokyo  22695
+    
+12    
+1970  Buenos-Aires  8625
+1970  Chicago  7585
+1970  London  7799
+1970  Los-Angeles  8712
+1970  Mexico-City  9000
+1970  Moscow  7106
+1970  New-York  17252
+1970  Osaka  15272
+1970  Paris  8875
+1970  Shanghai  7900
+1970  São-Paulo  7620
+1970  Tokyo  23298
+    
+12    
+1971  Buenos-Aires  8649
+1971  Chicago  7588
+1971  London  7785
+1971  Los-Angeles  8755
+1971  Mexico-City  9460
+1971  New-York  17222
+1971  Osaka  15477
+1971  Paris  8980
+1971  Rio-de-Janeiro  7260
+1971  Shanghai  7920
+1971  São-Paulo  8019
+1971  Tokyo  23961
+    
+12    
+1972  Buenos-Aires  8673
+1972  Chicago  7591
+1972  London  7771
+1972  Los-Angeles  8798
+1972  Mexico-City  9920
+1972  New-York  17191
+1972  Osaka  15682
+1972  Paris  9085
+1972  Rio-de-Janeiro  7520
+1972  Shanghai  7940
+1972  São-Paulo  8418
+1972  Tokyo  24625
+    
+12    
+1973  Buenos-Aires  8697
+1973  Chicago  7594
+1973  London  7758
+1973  Los-Angeles  8840
+1973  Mexico-City  10380
+1973  New-York  17161
+1973  Osaka  15888
+1973  Paris  9190
+1973  Rio-de-Janeiro  7780
+1973  Shanghai  7960
+1973  São-Paulo  8816
+1973  Tokyo  25288
+    
+12    
+1974  Buenos-Aires  8721
+1974  Kolkata  7696
+1974  London  7744
+1974  Los-Angeles  8883
+1974  Mexico-City  10840
+1974  New-York  17130
+1974  Osaka  16093
+1974  Paris  9295
+1974  Rio-de-Janeiro  8040
+1974  Shanghai  7980
+1974  São-Paulo  9215
+1974  Tokyo  25952
+    
+12    
+1975  Buenos-Aires  8745
+1975  Kolkata  7888
+1975  London  7730
+1975  Los-Angeles  8926
+1975  Mexico-City  11300
+1975  New-York  17100
+1975  Osaka  16298
+1975  Paris  9400
+1975  Rio-de-Janeiro  8300
+1975  Shanghai  8000
+1975  São-Paulo  9614
+1975  Tokyo  26615
+    
+12    
+1976  Buenos-Aires  8880
+1976  Kolkata  8116
+1976  Los-Angeles  9043
+1976  Mexico-City  11646
+1976  Moscow  7726
+1976  New-York  16800
+1976  Osaka  16444
+1976  Paris  9254
+1976  Rio-de-Janeiro  8397
+1976  Shanghai  8238
+1976  São-Paulo  10109
+1976  Tokyo  27002
+    
+12    
+1977  Buenos-Aires  9016
+1977  Kolkata  8345
+1977  Los-Angeles  9160
+1977  Mexico-City  11991
+1977  Moscow  7828
+1977  New-York  16500
+1977  Osaka  16590
+1977  Paris  9108
+1977  Rio-de-Janeiro  8494
+1977  Shanghai  8477
+1977  São-Paulo  10604
+1977  Tokyo  27389
+    
+12    
+1978  Buenos-Aires  9151
+1978  Kolkata  8573
+1978  Los-Angeles  9278
+1978  Mexico-City  12337
+1978  Mumbai  8028
+1978  New-York  16201
+1978  Osaka  16736
+1978  Paris  8961
+1978  Rio-de-Janeiro  8590
+1978  Shanghai  8715
+1978  São-Paulo  11099
+1978  Tokyo  27775
+    
+12    
+1979  Buenos-Aires  9287
+1979  Kolkata  8802
+1979  Los-Angeles  9395
+1979  Mexico-City  12682
+1979  Mumbai  8343
+1979  New-York  15901
+1979  Osaka  16882
+1979  Paris  8815
+1979  Rio-de-Janeiro  8687
+1979  Shanghai  8953
+1979  São-Paulo  11594
+1979  Tokyo  28162
+    
+12    
+1980  Buenos-Aires  9422
+1980  Kolkata  9030
+1980  Los-Angeles  9512
+1980  Mexico-City  13028
+1980  Mumbai  8658
+1980  New-York  15601
+1980  Osaka  17028
+1980  Paris  8669
+1980  Rio-de-Janeiro  8784
+1980  Shanghai  9192
+1980  São-Paulo  12089
+1980  Tokyo  28549
+    
+12    
+1981  Buenos-Aires  9529
+1981  Kolkata  9213
+1981  Los-Angeles  9646
+1981  Mexico-City  13278
+1981  Mumbai  9005
+1981  New-York  15646
+1981  Osaka  17139
+1981  Paris  8726
+1981  Rio-de-Janeiro  8876
+1981  Shanghai  9430
+1981  São-Paulo  12350
+1981  Tokyo  28900
+    
+12    
+1982  Buenos-Aires  9637
+1982  Kolkata  9396
+1982  Los-Angeles  9780
+1982  Mexico-City  13528
+1982  Mumbai  9351
+1982  New-York  15691
+1982  Osaka  17250
+1982  Paris  8784
+1982  Rio-de-Janeiro  8967
+1982  Shanghai  9669
+1982  São-Paulo  12611
+1982  Tokyo  29251
+    
+12    
+1983  Buenos-Aires  9744
+1983  Kolkata  9580
+1983  Los-Angeles  9913
+1983  Mexico-City  13778
+1983  Mumbai  9698
+1983  New-York  15737
+1983  Osaka  17361
+1983  Rio-de-Janeiro  9059
+1983  Seoul  8904
+1983  Shanghai  9907
+1983  São-Paulo  12873
+1983  Tokyo  29602
+    
+12    
+1984  Buenos-Aires  9852
+1984  Kolkata  9763
+1984  Los-Angeles  10047
+1984  Mexico-City  14028
+1984  Mumbai  10044
+1984  New-York  15782
+1984  Osaka  17472
+1984  Rio-de-Janeiro  9150
+1984  Seoul  9119
+1984  Shanghai  10145
+1984  São-Paulo  13134
+1984  Tokyo  29953
+    
+12    
+1985  Buenos-Aires  9959
+1985  Kolkata  9946
+1985  Los-Angeles  10181
+1985  Mexico-City  14278
+1985  Mumbai  10391
+1985  New-York  15827
+1985  Osaka  17583
+1985  Rio-de-Janeiro  9242
+1985  Seoul  9334
+1985  Shanghai  10384
+1985  São-Paulo  13395
+1985  Tokyo  30304
+    
+12    
+1986  Buenos-Aires  10070
+1986  Kolkata  10135
+1986  Los-Angeles  10321
+1986  Mexico-City  14551
+1986  Mumbai  10800
+1986  New-York  15879
+1986  Osaka  17744
+1986  Rio-de-Janeiro  9333
+1986  Seoul  9571
+1986  Shanghai  10622
+1986  São-Paulo  13671
+1986  Tokyo  30749
+    
+12    
+1987  Buenos-Aires  10181
+1987  Kolkata  10324
+1987  Los-Angeles  10462
+1987  Mexico-City  14824
+1987  Mumbai  11209
+1987  New-York  15931
+1987  Osaka  17905
+1987  Rio-de-Janeiro  9424
+1987  Seoul  9808
+1987  Shanghai  10860
+1987  São-Paulo  13947
+1987  Tokyo  31194
+    
+12    
+1988  Buenos-Aires  10291
+1988  Kolkata  10512
+1988  Los-Angeles  10602
+1988  Mexico-City  15096
+1988  Mumbai  11618
+1988  New-York  15982
+1988  Osaka  18067
+1988  Rio-de-Janeiro  9515
+1988  Seoul  10044
+1988  Shanghai  11099
+1988  São-Paulo  14224
+1988  Tokyo  31640
+    
+12    
+1989  Buenos-Aires  10402
+1989  Kolkata  10701
+1989  Los-Angeles  10743
+1989  Mexico-City  15369
+1989  Mumbai  12027
+1989  New-York  16034
+1989  Osaka  18228
+1989  Rio-de-Janeiro  9606
+1989  Seoul  10281
+1989  Shanghai  11337
+1989  São-Paulo  14500
+1989  Tokyo  32085
+    
+12    
+1990  Buenos-Aires  10513
+1990  Cairo  9892
+1990  Kolkata  10890
+1990  Los-Angeles  10883
+1990  Mexico-City  15642
+1990  Mumbai  12436
+1990  New-York  16086
+1990  Osaka  18389
+1990  Seoul  10518
+1990  Shanghai  11575
+1990  São-Paulo  14776
+1990  Tokyo  32530
+    
+12    
+1991  Buenos-Aires  10688
+1991  Cairo  10306
+1991  Kolkata  11097
+1991  Los-Angeles  10974
+1991  Mexico-City  15917
+1991  Mumbai  12811
+1991  New-York  16257
+1991  Osaka  18499
+1991  Seoul  10464
+1991  Shanghai  11814
+1991  São-Paulo  15003
+1991  Tokyo  32741
+    
+12    
+1992  Buenos-Aires  10864
+1992  Cairo  10720
+1992  Delhi  10798
+1992  Kolkata  11304
+1992  Los-Angeles  11065
+1992  Mexico-City  16192
+1992  Mumbai  13186
+1992  New-York  16429
+1992  Osaka  18609
+1992  Shanghai  12052
+1992  São-Paulo  15231
+1992  Tokyo  32953
+    
+12    
+1993  Buenos-Aires  11039
+1993  Cairo  11134
+1993  Delhi  11335
+1993  Kolkata  11510
+1993  Los-Angeles  11157
+1993  Mexico-City  16467
+1993  Mumbai  13560
+1993  New-York  16600
+1993  Osaka  18720
+1993  Shanghai  12290
+1993  São-Paulo  15458
+1993  Tokyo  33164
+    
+12    
+1994  Buenos-Aires  11215
+1994  Cairo  11548
+1994  Delhi  11871
+1994  Kolkata  11717
+1994  Los-Angeles  11248
+1994  Mexico-City  16742
+1994  Mumbai  13935
+1994  New-York  16772
+1994  Osaka  18830
+1994  Shanghai  12529
+1994  São-Paulo  15686
+1994  Tokyo  33376
+    
+12    
+1995  Buenos-Aires  11390
+1995  Cairo  11962
+1995  Delhi  12407
+1995  Kolkata  11924
+1995  Los-Angeles  11339
+1995  Mexico-City  17017
+1995  Mumbai  14310
+1995  New-York  16943
+1995  Osaka  18940
+1995  Shanghai  12767
+1995  São-Paulo  15913
+1995  Tokyo  33587
+    
+12    
+1996  Buenos-Aires  11593
+1996  Cairo  12295
+1996  Delhi  13072
+1996  Kolkata  12151
+1996  Los-Angeles  11431
+1996  Mexico-City  17305
+1996  Mumbai  14721
+1996  New-York  17117
+1996  Osaka  18884
+1996  Shanghai  13006
+1996  São-Paulo  16133
+1996  Tokyo  33760
+    
+12    
+1997  Buenos-Aires  11797
+1997  Cairo  12628
+1997  Delhi  13737
+1997  Kolkata  12378
+1997  Los-Angeles  11523
+1997  Mexico-City  17593
+1997  Mumbai  15133
+1997  New-York  17291
+1997  Osaka  18828
+1997  Shanghai  13244
+1997  São-Paulo  16353
+1997  Tokyo  33932
+    
+12    
+1998  Buenos-Aires  12000
+1998  Cairo  12960
+1998  Delhi  14402
+1998  Kolkata  12604
+1998  Los-Angeles  11614
+1998  Mexico-City  17881
+1998  Mumbai  15544
+1998  New-York  17465
+1998  Osaka  18772
+1998  Shanghai  13482
+1998  São-Paulo  16574
+1998  Tokyo  34105
+    
+12    
+1999  Buenos-Aires  12204
+1999  Cairo  13293
+1999  Delhi  15067
+1999  Kolkata  12831
+1999  Los-Angeles  11706
+1999  Mexico-City  18169
+1999  Mumbai  15956
+1999  New-York  17639
+1999  Osaka  18716
+1999  Shanghai  13721
+1999  São-Paulo  16794
+1999  Tokyo  34277
+    
+12    
+2000  Buenos-Aires  12407
+2000  Cairo  13626
+2000  Delhi  15732
+2000  Kolkata  13058
+2000  Los-Angeles  11798
+2000  Mexico-City  18457
+2000  Mumbai  16367
+2000  New-York  17813
+2000  Osaka  18660
+2000  Shanghai  13959
+2000  São-Paulo  17014
+2000  Tokyo  34450
+    
+12    
+2001  Buenos-Aires  12592
+2001  Cairo  13936
+2001  Delhi  16320
+2001  Kolkata  13187
+2001  Los-Angeles  11834
+2001  Mexico-City  18621
+2001  Mumbai  16672
+2001  New-York  17868
+2001  Osaka  18680
+2001  Shanghai  14520
+2001  São-Paulo  17269
+2001  Tokyo  34684
+    
+12    
+2002  Buenos-Aires  12776
+2002  Cairo  14245
+2002  Delhi  16907
+2002  Kolkata  13316
+2002  Los-Angeles  11870
+2002  Mexico-City  18785
+2002  Mumbai  16977
+2002  New-York  17923
+2002  Osaka  18701
+2002  Shanghai  15081
+2002  São-Paulo  17524
+2002  Tokyo  34919
+    
+12    
+2003  Buenos-Aires  12961
+2003  Cairo  14555
+2003  Delhi  17495
+2003  Kolkata  13444
+2003  Los-Angeles  11906
+2003  Mexico-City  18948
+2003  Mumbai  17281
+2003  New-York  17977
+2003  Osaka  18721
+2003  Shanghai  15641
+2003  São-Paulo  17778
+2003  Tokyo  35153
+    
+12    
+2004  Beijing  12283
+2004  Buenos-Aires  13145
+2004  Cairo  14864
+2004  Delhi  18082
+2004  Kolkata  13573
+2004  Mexico-City  19112
+2004  Mumbai  17586
+2004  New-York  18032
+2004  Osaka  18742
+2004  Shanghai  16202
+2004  São-Paulo  18033
+2004  Tokyo  35388
+    
+12    
+2005  Beijing  12813
+2005  Buenos-Aires  13330
+2005  Cairo  15174
+2005  Delhi  18670
+2005  Kolkata  13702
+2005  Mexico-City  19276
+2005  Mumbai  17891
+2005  New-York  18087
+2005  Osaka  18762
+2005  Shanghai  16763
+2005  São-Paulo  18288
+2005  Tokyo  35622
+    
+12    
+2006  Beijing  13488
+2006  Buenos-Aires  13513
+2006  Cairo  15519
+2006  Delhi  19323
+2006  Kolkata  13818
+2006  Mexico-City  19447
+2006  Mumbai  18197
+2006  New-York  18143
+2006  Osaka  18908
+2006  Shanghai  17406
+2006  São-Paulo  18562
+2006  Tokyo  35864
+    
+12    
+2007  Beijing  14164
+2007  Buenos-Aires  13696
+2007  Cairo  15864
+2007  Delhi  19976
+2007  Kolkata  13934
+2007  Mexico-City  19618
+2007  Mumbai  18503
+2007  New-York  18198
+2007  Osaka  19054
+2007  Shanghai  18050
+2007  São-Paulo  18837
+2007  Tokyo  36107
+    
+12    
+2008  Beijing  14839
+2008  Buenos-Aires  13880
+2008  Cairo  16209
+2008  Delhi  20629
+2008  Kolkata  14051
+2008  Mexico-City  19790
+2008  Mumbai  18810
+2008  New-York  18254
+2008  Osaka  19200
+2008  Shanghai  18693
+2008  São-Paulo  19111
+2008  Tokyo  36349
+    
+12    
+2009  Beijing  15515
+2009  Cairo  16554
+2009  Delhi  21282
+2009  Dhaka  14251
+2009  Kolkata  14167
+2009  Mexico-City  19961
+2009  Mumbai  19116
+2009  New-York  18309
+2009  Osaka  19346
+2009  Shanghai  19337
+2009  São-Paulo  19386
+2009  Tokyo  36592
+    
+12    
+2010  Beijing  16190
+2010  Cairo  16899
+2010  Delhi  21935
+2010  Dhaka  14731
+2010  Kolkata  14283
+2010  Mexico-City  20132
+2010  Mumbai  19422
+2010  New-York  18365
+2010  Osaka  19492
+2010  Shanghai  19980
+2010  São-Paulo  19660
+2010  Tokyo  36834
+    
+12    
+2011  Beijing  17029
+2011  Cairo  17274
+2011  Delhi  22689
+2011  Dhaka  15304
+2011  Karachi  14588
+2011  Mexico-City  20305
+2011  Mumbai  19746
+2011  New-York  18411
+2011  Osaka  19641
+2011  Shanghai  20732
+2011  São-Paulo  19941
+2011  Tokyo  37067
+    
+12    
+2012  Beijing  17868
+2012  Cairo  17648
+2012  Delhi  23442
+2012  Dhaka  15878
+2012  Karachi  15096
+2012  Mexico-City  20479
+2012  Mumbai  20070
+2012  New-York  18456
+2012  Osaka  19790
+2012  Shanghai  21484
+2012  São-Paulo  20222
+2012  Tokyo  37301
+    
+12    
+2013  Beijing  18706
+2013  Cairo  18023
+2013  Delhi  24196
+2013  Dhaka  16451
+2013  Karachi  15603
+2013  Mexico-City  20652
+2013  Mumbai  20395
+2013  New-York  18502
+2013  Osaka  19940
+2013  Shanghai  22237
+2013  São-Paulo  20504
+2013  Tokyo  37534
+    
+12    
+2014  Beijing  19545
+2014  Cairo  18397
+2014  Delhi  24949
+2014  Dhaka  17025
+2014  Karachi  16111
+2014  Mexico-City  20826
+2014  Mumbai  20719
+2014  New-York  18547
+2014  Osaka  20089
+2014  Shanghai  22989
+2014  São-Paulo  20785
+2014  Tokyo  37768
+    
+12    
+2015  Beijing  20384
+2015  Cairo  18772
+2015  Delhi  25703
+2015  Dhaka  17598
+2015  Karachi  16618
+2015  Mexico-City  20999
+2015  Mumbai  21043
+2015  New-York  18593
+2015  Osaka  20238
+2015  Shanghai  23741
+2015  São-Paulo  21066
+2015  Tokyo  38001
+    
+12    
+2016  Beijing  21147
+2016  Cairo  19131
+2016  Delhi  26432
+2016  Dhaka  18276
+2016  Karachi  17140
+2016  Mexico-City  21173
+2016  Mumbai  21402
+2016  New-York  18633
+2016  Osaka  20295
+2016  Shanghai  24420
+2016  São-Paulo  21277
+2016  Tokyo  38065
+    
+12    
+2017  Beijing  21911
+2017  Cairo  19490
+2017  Delhi  27161
+2017  Dhaka  18954
+2017  Karachi  17663
+2017  Mexico-City  21347
+2017  Mumbai  21761
+2017  New-York  18673
+2017  Osaka  20352
+2017  Shanghai  25099
+2017  São-Paulo  21487
+2017  Tokyo  38130
+    
+12    
+2018  Beijing  22674
+2018  Cairo  19850
+2018  Delhi  27890
+2018  Dhaka  19633
+2018  Karachi  18185
+2018  Mexico-City  21520
+2018  Mumbai  22120
+2018  New-York  18713
+2018  Osaka  20409
+2018  Shanghai  25779
+2018  São-Paulo  21698
+2018  Tokyo  38194
